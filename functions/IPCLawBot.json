@@ -1,0 +1,3989 @@
+[
+ {
+   "IP Section": "140",
+   "Offense": "Wearing the dress or carrying any token used by a soldier, sailor or airman with intent that it may be believed that he is such a soldier, sailor or airman",
+   "Punishment": "3 Months or Fine or Both",
+   "Cognizable": "Yes",
+   "Bailable": "Yes",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Fine Only"
+ },
+ {
+   "IP Section": "127",
+   "Offense": "Receiving property taken by war or depredation mentioned in sections 125 And 126",
+   "Punishment": "7 Years + Fine + forfeiture of property",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Court of Session",
+   "Punishment Category": "Imprisonment (3�10 years)"
+ },
+ {
+   "IP Section": "128",
+   "Offense": "Public servant voluntarily allowing prisoner of State or war in his custody to escape",
+   "Punishment": "Imprisonment for Life or 10 Years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Court of Session",
+   "Punishment Category": "Life Imprisonment"
+ },
+ {
+   "IP Section": "129",
+   "Offense": "Public servant negligently suffering prisoner of State or war in his custody to escape",
+   "Punishment": "Simple Imprisonment 3 Years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "Yes",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "130",
+   "Offense": "Aiding escape of, rescuing or harbouring, such prisoner, or offering Any resistance to the recapture of such prisoner",
+   "Punishment": "Imprisonment for Life or 10 Years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Court of Session",
+   "Punishment Category": "Life Imprisonment"
+ },
+ {
+   "IP Section": "131",
+   "Offense": "Abetting mutiny, or attempting to seduce an officer, soldier sailor or airman from his allegiance or duty",
+   "Punishment": "Imprisonment for Life or 10 Years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Court of Session",
+   "Punishment Category": "Life Imprisonment"
+ },
+ {
+   "IP Section": "132",
+   "Offense": "Abetment of mutiny, if mutiny is committed in consequence thereof",
+   "Punishment": "Death or Imprisonment for Life or 10 Years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Court of Session",
+   "Punishment Category": "Life Imprisonment"
+ },
+ {
+   "IP Section": "351",
+   "Offense": "Abetment of an assault by An officer, soldier, sailor Or airman on his superior officer, when in the execution of his office",
+   "Punishment": "3 Years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "351",
+   "Offense": "Abetment of such assault, if the assault is committed",
+   "Punishment": "7 Years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Imprisonment (3�10 years)"
+ },
+ {
+   "IP Section": "135",
+   "Offense": "Abetment of the desertion of an officer, soldier, sailor or airman",
+   "Punishment": "2 Years or Fine or Both",
+   "Cognizable": "Yes",
+   "Bailable": "Yes",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "136",
+   "Offense": "Harbouring such an officer, soldier, sailor or airman who has deserted",
+   "Punishment": "2 Years or Fine or Both",
+   "Cognizable": "Yes",
+   "Bailable": "Yes",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "122",
+   "Offense": "Collecting arms, etc., with The intention of waging War against the Government of India",
+   "Punishment": "Imprisonment for Life or 10 Years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Court of Session",
+   "Punishment Category": "Life Imprisonment"
+ },
+ {
+   "IP Section": "137",
+   "Offense": "Deserter concealed on board merchant vessel, through negligence of master or person in charge thereof",
+   "Punishment": "Fine",
+   "Cognizable": "No",
+   "Bailable": "Yes",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Fine Only"
+ },
+ {
+   "IP Section": "138",
+   "Offense": "Abetment of act of insubordination by an officer, soldier, sailor or airman, if the offence be committed in consequence",
+   "Punishment": "6 Months or Fine or Both",
+   "Cognizable": "Yes",
+   "Bailable": "Yes",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Fine Only"
+ },
+ {
+   "IP Section": "121",
+   "Offense": "Conspiring to commit certain offences against the State",
+   "Punishment": "Imprisonment for Life or 10 Years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Court of Session",
+   "Punishment Category": "Life Imprisonment"
+ },
+ {
+   "IP Section": "123",
+   "Offense": "Concealing with intent to facilitate a design to wage War",
+   "Punishment": "10 Years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Court of Session",
+   "Punishment Category": "Imprisonment (3�10 years)"
+ },
+ {
+   "IP Section": "351",
+   "Offense": "Assaulting President, Governor, etc., with intent to compel or restrain the exercise of any lawful power",
+   "Punishment": "7 Years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Court of Session",
+   "Punishment Category": "Imprisonment (3�10 years)"
+ },
+ {
+   "IP Section": "124",
+   "Offense": "Sedition",
+   "Punishment": "Imprisonment for Life + Fine or 3 Years + Fine or Fine",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Court of Session",
+   "Punishment Category": "Life Imprisonment"
+ },
+ {
+   "IP Section": "125",
+   "Offense": "Waging war against any Asiatic power in alliance or at peace with the Government of India, or abetting the waging of such war",
+   "Punishment": "Imprisonment for Life + Fine or 7 Years + Fine or Fine",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Court of Session",
+   "Punishment Category": "Life Imprisonment"
+ },
+ {
+   "IP Section": "126",
+   "Offense": "Committing depredation On the territories of any power in alliance or at peace with the Government of India",
+   "Punishment": "7 Years + Fine + forfeiture of property",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Court of Session",
+   "Punishment Category": "Imprisonment (3�10 years)"
+ },
+ {
+   "IP Section": "147",
+   "Offense": "Wantonly giving provocation with intent to cause riot, If rioting be committed",
+   "Punishment": "1 Year or Fine or Both",
+   "Cognizable": "Yes",
+   "Bailable": "Yes",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "153",
+   "Offense": "Promoting enmity between classes",
+   "Punishment": "3 Years or Fine or Both",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "153",
+   "Offense": "Promoting enmity between classes",
+   "Punishment": "3 Years or Fine or Both",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "153",
+   "Offense": "Imputations, assertions prejudicial to national integration",
+   "Punishment": "3 Years or Fine or Both",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "154",
+   "Offense": "Owner or occupier of land non giving information of riot, etc.",
+   "Punishment": "Fine",
+   "Cognizable": "No",
+   "Bailable": "Yes",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Fine Only"
+ },
+ {
+   "IP Section": "155",
+   "Offense": "Person for whose benefit or on whose behalf a riot takes place not using all lawful means to prevent it",
+   "Punishment": "Fine",
+   "Cognizable": "No",
+   "Bailable": "Yes",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Fine Only"
+ },
+ {
+   "IP Section": "156",
+   "Offense": "Agent of owner or occupier for whose benefit a riot is committed not using all lawful means to prevent it",
+   "Punishment": "Fine",
+   "Cognizable": "No",
+   "Bailable": "Yes",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Fine Only"
+ },
+ {
+   "IP Section": "157",
+   "Offense": "Harbouring persons hired for an unlawful assembly",
+   "Punishment": "6 Months or Fine or Both",
+   "Cognizable": "Yes",
+   "Bailable": "Yes",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Fine Only"
+ },
+ {
+   "IP Section": "158",
+   "Offense": "Being hired to take part in an unlawful assembly or riot",
+   "Punishment": "6 Months or Fine or Both",
+   "Cognizable": "Yes",
+   "Bailable": "Yes",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Fine Only"
+ },
+ {
+   "IP Section": "159",
+   "Offense": "Unknown",
+   "Punishment": "Unknown",
+   "Cognizable": "Unknown",
+   "Bailable": "Unknown",
+   "Court": "Unknown",
+   "Punishment Category": "Other Punishments"
+ },
+ {
+   "IP Section": "145",
+   "Offense": "Joining or continuing in an unlawful assembly, Knowing that it has been commanded to disperse",
+   "Punishment": "2 Years or Fine or Both",
+   "Cognizable": "Yes",
+   "Bailable": "Yes",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "160",
+   "Offense": "Committing affray",
+   "Punishment": "1 Month or Fine or Both",
+   "Cognizable": "Yes",
+   "Bailable": "Yes",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Fine Only"
+ },
+ {
+   "IP Section": "161",
+   "Offense": "Being or expecting to be a public servant, and taking A gratification other than Legal remuneration in respect of an official act",
+   "Punishment": "3 Years or Fine or Both",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "162",
+   "Offense": "Taking a gratification in order, by corrupt or illegal means, to influence a public servant",
+   "Punishment": "3 Years or Fine or Both",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "163",
+   "Offense": "Taking a gratification for the exercise of personal influence with a public servant",
+   "Punishment": "Simple Imprisonment for 1 Year or Fine or Both",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "164",
+   "Offense": "Abetment by public servant of the offences defined in the last two preceding clauses with reference to himself",
+   "Punishment": "3 Years or Fine or Both",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "165",
+   "Offense": "Public servant obtaining any valuable thing, without consideration, From a person concerned in any proceeding or business transacted by Such public servant",
+   "Punishment": "3 Years or Fine or Both",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "165",
+   "Offense": "Punishment for abetment of offences punishable under section 161 or section 165",
+   "Punishment": "3 Years or Fine or Both",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "166",
+   "Offense": "Public servant disobeying a direction of the law with intent to cause injury to any person",
+   "Punishment": "Simple Imprisonment for 1 Year or Fine or Both",
+   "Cognizable": "No",
+   "Bailable": "Yes",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "166",
+   "Offense": "Unknown",
+   "Punishment": "Unknown",
+   "Cognizable": "Unknown",
+   "Bailable": "Unknown",
+   "Court": "Unknown",
+   "Punishment Category": "Other Punishments"
+ },
+ {
+   "IP Section": "166",
+   "Offense": "Unknown",
+   "Punishment": "Unknown",
+   "Cognizable": "Unknown",
+   "Bailable": "Unknown",
+   "Court": "Unknown",
+   "Punishment Category": "Other Punishments"
+ },
+ {
+   "IP Section": "146",
+   "Offense": "Unknown",
+   "Punishment": "Unknown",
+   "Cognizable": "Unknown",
+   "Bailable": "Unknown",
+   "Court": "Unknown",
+   "Punishment Category": "Other Punishments"
+ },
+ {
+   "IP Section": "167",
+   "Offense": "Public servant framing an incorrect document with intent to cause injury",
+   "Punishment": "3 Years or Fine or Both",
+   "Cognizable": "Yes",
+   "Bailable": "Yes",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "168",
+   "Offense": "Public servant unlawfully engaging in trade",
+   "Punishment": "Simple Imprisonment for 1 Year or Fine or Both",
+   "Cognizable": "No",
+   "Bailable": "Yes",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "169",
+   "Offense": "Public servant unlawfully buying or bidding for property",
+   "Punishment": "Simple Imprisonment for 2 Years or Fine or Both and confiscation of property, if purchased",
+   "Cognizable": "No",
+   "Bailable": "Yes",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "170",
+   "Offense": "Personating a Public servant",
+   "Punishment": "2 Years or Fine or Both",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "171",
+   "Offense": "As described",
+   "Punishment": "3 Months or Fine or Both",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Fine Only"
+ },
+ {
+   "IP Section": "171",
+   "Offense": "Unknown",
+   "Punishment": "Unknown",
+   "Cognizable": "Unknown",
+   "Bailable": "Unknown",
+   "Court": "Unknown",
+   "Punishment Category": "Other Punishments"
+ },
+ {
+   "IP Section": "171",
+   "Offense": "Unknown",
+   "Punishment": "Unknown",
+   "Cognizable": "Unknown",
+   "Bailable": "Unknown",
+   "Court": "Unknown",
+   "Punishment Category": "Other Punishments"
+ },
+ {
+   "IP Section": "171",
+   "Offense": "Unknown",
+   "Punishment": "Unknown",
+   "Cognizable": "Unknown",
+   "Bailable": "Unknown",
+   "Court": "Unknown",
+   "Punishment Category": "Other Punishments"
+ },
+ {
+   "IP Section": "171",
+   "Offense": "Unknown",
+   "Punishment": "Unknown",
+   "Cognizable": "Unknown",
+   "Bailable": "Unknown",
+   "Court": "Unknown",
+   "Punishment Category": "Other Punishments"
+ },
+ {
+   "IP Section": "171",
+   "Offense": "Bribery",
+   "Punishment": "1 Year or Fine or Both, or if treating only, fine only",
+   "Cognizable": "No",
+   "Bailable": "Yes",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "147",
+   "Offense": "Rioting",
+   "Punishment": "2 Years or Fine or Both",
+   "Cognizable": "Yes",
+   "Bailable": "Yes",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "171",
+   "Offense": "Undue influence at an election",
+   "Punishment": "1 Year or Fine or Both",
+   "Cognizable": "No",
+   "Bailable": "Yes",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "171",
+   "Offense": "False statement in connection with an election",
+   "Punishment": "Fine",
+   "Cognizable": "No",
+   "Bailable": "Yes",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Fine Only"
+ },
+ {
+   "IP Section": "171",
+   "Offense": "Illegal payments in connection with elections",
+   "Punishment": "Fine",
+   "Cognizable": "No",
+   "Bailable": "Yes",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Fine Only"
+ },
+ {
+   "IP Section": "171",
+   "Offense": "Failure to keep election accounts",
+   "Punishment": "Fine",
+   "Cognizable": "No",
+   "Bailable": "Yes",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Fine Only"
+ },
+ {
+   "IP Section": "172",
+   "Offense": "Absconding to avoid service of summons or other proceeding from a public servant",
+   "Punishment": "Simple Imprisonment for 1 Month or Fine or Both",
+   "Cognizable": "No",
+   "Bailable": "Yes",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Other Punishments"
+ },
+ {
+   "IP Section": "173",
+   "Offense": "Preventing the service or The affixing of any summons of notice, or the removal of it when it has been affixed, or preventing a reclamation",
+   "Punishment": "Simple Imprisonment for 1 Month or Fine or Both",
+   "Cognizable": "No",
+   "Bailable": "Yes",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Other Punishments"
+ },
+ {
+   "IP Section": "174",
+   "Offense": "Not obeying a legal order to attend at a certain place in person or by agent, or departing therefrom without authority",
+   "Punishment": "Simple Imprisonment for 1 Month or Fine or Both",
+   "Cognizable": "No",
+   "Bailable": "Yes",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Other Punishments"
+ },
+ {
+   "IP Section": "174",
+   "Offense": "Failure to appear at specified place and specified time as required by a proclamation published under Sub-Section 1 of section 82 of this Code",
+   "Punishment": "3 Years or Fine or Both",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "175",
+   "Offense": "Intentionally omitting to produce a document to a public servant by a person legally bound to produce deliver such document",
+   "Punishment": "Simple Imprisonment for 1 Month or Fine or Both",
+   "Cognizable": "No",
+   "Bailable": "Yes",
+   "Court": "Same As Offence, subject to Ch. XXVI, or if not committed in a Court, Any Magistrate",
+   "Punishment Category": "Other Punishments"
+ },
+ {
+   "IP Section": "176",
+   "Offense": "Intentionally omitting to Give notice or information to a public servant by a person legally bound to Give such notice or information",
+   "Punishment": "Simple Imprisonment for 1 Month or Fine or Both",
+   "Cognizable": "No",
+   "Bailable": "Yes",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Other Punishments"
+ },
+ {
+   "IP Section": "147",
+   "Offense": "Rioting armed with deadly Weapon",
+   "Punishment": "3 Years or Fine or Both",
+   "Cognizable": "Yes",
+   "Bailable": "Yes",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "177",
+   "Offense": "Knowingly furnishing false information to a public servant",
+   "Punishment": "6 Months or Fine or Both",
+   "Cognizable": "No",
+   "Bailable": "Yes",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Fine Only"
+ },
+ {
+   "IP Section": "178",
+   "Offense": "Refusing oath when duly required to take oath by a public servant",
+   "Punishment": "Simple Imprisonment for 6 Months or Fine or Both",
+   "Cognizable": "No",
+   "Bailable": "Yes",
+   "Court": "Same As Offence, subject to Ch. XXVI, or if not committed in a Court, Any Magistrate",
+   "Punishment Category": "Other Punishments"
+ },
+ {
+   "IP Section": "179",
+   "Offense": "Being legally bound to state truth, and refusing to answer questions",
+   "Punishment": "Simple Imprisonment for 6 Months or Fine or Both",
+   "Cognizable": "No",
+   "Bailable": "Yes",
+   "Court": "Same As Offence, subject to Ch. XXVI, or if not committed in a Court, Any Magistrate",
+   "Punishment Category": "Other Punishments"
+ },
+ {
+   "IP Section": "180",
+   "Offense": "Refusing to sign statement made to a public servant when legally required to do so",
+   "Punishment": "Simple Imprisonment for 3 Months or Fine or Both",
+   "Cognizable": "No",
+   "Bailable": "Yes",
+   "Court": "Same As Offence, subject to Ch. XXVI, or if not committed in a Court, Any Magistrate",
+   "Punishment Category": "Other Punishments"
+ },
+ {
+   "IP Section": "181",
+   "Offense": "Knowingly stating to a public servant, on oath as True that which is false",
+   "Punishment": "3 Years + Fine",
+   "Cognizable": "No",
+   "Bailable": "Yes",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "182",
+   "Offense": "Giving false information to a public servant in order to cause him to use his lawful power to the injury or annoyance of any person",
+   "Punishment": "6 Months or Fine or Both",
+   "Cognizable": "No",
+   "Bailable": "Yes",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Fine Only"
+ },
+ {
+   "IP Section": "183",
+   "Offense": "Resistance to the taking of property by the lawful authority of a public servant",
+   "Punishment": "6 Months or Fine or Both",
+   "Cognizable": "No",
+   "Bailable": "Yes",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Fine Only"
+ },
+ {
+   "IP Section": "184",
+   "Offense": "Obstructing sale of property offered for sale by authority of a public servant",
+   "Punishment": "1 Month or Fine or Both",
+   "Cognizable": "No",
+   "Bailable": "Yes",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Fine Only"
+ },
+ {
+   "IP Section": "185",
+   "Offense": "Bidding, by a person under a legal incapacity to purchase it, for property at a lawfully authorized Sale, or bidding without intending to perform the obligations incurred thereby",
+   "Punishment": "1 Month or Fine or Both",
+   "Cognizable": "No",
+   "Bailable": "Yes",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Fine Only"
+ },
+ {
+   "IP Section": "186",
+   "Offense": "Obstructing public servant in discharge of his public functions",
+   "Punishment": "3 Months or Fine or Both",
+   "Cognizable": "Non-Cognizable; Cognizable in A.P.",
+   "Bailable": "Yes",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Fine Only"
+ },
+ {
+   "IP Section": "149",
+   "Offense": "If an offence be committed by any member of an unlawful assembly, every other member of such assembly shall be guilty of the offence",
+   "Punishment": "Same As Offence",
+   "Cognizable": "Same As Offence",
+   "Bailable": "Same As Offence",
+   "Court": "Same As Offence",
+   "Punishment Category": "Other Punishments"
+ },
+ {
+   "IP Section": "187",
+   "Offense": "Omission to assist public servant when bound by law to give such assistance",
+   "Punishment": "Simple Imprisonment for 1 Month or Fine or Both",
+   "Cognizable": "No",
+   "Bailable": "Yes",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Other Punishments"
+ },
+ {
+   "IP Section": "188",
+   "Offense": "Disobedience to an order lawfully promulgated by a public servant, If such disobedience causes obstruction, annoyance or injury to persons lawfully employed",
+   "Punishment": "Simple Imprisonment for 1 Month or Fine or Both",
+   "Cognizable": "Yes",
+   "Bailable": "Yes",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Other Punishments"
+ },
+ {
+   "IP Section": "189",
+   "Offense": "Threatening a public servant with injury to him or one in whom he is interested, to induce him to do or forbear to do any official act",
+   "Punishment": "2 Years or Fine or Both",
+   "Cognizable": "Non-Cognizable; Cognizable in A.P.",
+   "Bailable": "Yes",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "190",
+   "Offense": "Threatening any person to induce him to refrain From making a legal application for protection From injury",
+   "Punishment": "1 Year or Fine or Both",
+   "Cognizable": "Non-Cognizable; Cognizable in A.P.",
+   "Bailable": "Yes",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "150",
+   "Offense": "Hiring, engaging or employing persons to Take part in an unlawful assembly",
+   "Punishment": "Same as a Member and for Offence by any Member",
+   "Cognizable": "Yes",
+   "Bailable": "Same As Offence",
+   "Court": "Same As Offence",
+   "Punishment Category": "Other Punishments"
+ },
+ {
+   "IP Section": "151",
+   "Offense": "Knowingly joining or continuing in any assembly of five or more Persons after it has been commanded to disperse",
+   "Punishment": "6 Months or Fine or Both",
+   "Cognizable": "Yes",
+   "Bailable": "Yes",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Fine Only"
+ },
+ {
+   "IP Section": "351",
+   "Offense": "Assaulting or obstructing public servant when suppressing riot, etc.",
+   "Punishment": "3 Years or Fine or Both",
+   "Cognizable": "Yes",
+   "Bailable": "Yes",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "224",
+   "Offense": "Resistance or obstruction by a person to his lawful apprehension",
+   "Punishment": "2 Years or Fine or Both",
+   "Cognizable": "Yes",
+   "Bailable": "Yes",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "225",
+   "Offense": "Resistance or obstruction to the lawful apprehension of any person, or, rescuing him from lawful custody",
+   "Punishment": "2 Years or Fine or Both",
+   "Cognizable": "Yes",
+   "Bailable": "Yes",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "225",
+   "Offense": "Omission to apprehend, or sufferance of escape on part of public servant, in cases not otherwise provided for, In case of intentional omission or sufferance",
+   "Punishment": "3 Years or Fine or Both",
+   "Cognizable": "No",
+   "Bailable": "Yes",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "225",
+   "Offense": "Resistance or obstruction to lawful apprehension, or escape or rescue in cases not otherwise provided for",
+   "Punishment": "6 Months or Fine or Both",
+   "Cognizable": "Yes",
+   "Bailable": "Yes",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Fine Only"
+ },
+ {
+   "IP Section": "226",
+   "Offense": "Unknown",
+   "Punishment": "Unknown",
+   "Cognizable": "Unknown",
+   "Bailable": "Unknown",
+   "Court": "Unknown",
+   "Punishment Category": "Other Punishments"
+ },
+ {
+   "IP Section": "191",
+   "Offense": "Unknown",
+   "Punishment": "Unknown",
+   "Cognizable": "Unknown",
+   "Bailable": "Unknown",
+   "Court": "Unknown",
+   "Punishment Category": "Other Punishments"
+ },
+ {
+   "IP Section": "192",
+   "Offense": "Unknown",
+   "Punishment": "Unknown",
+   "Cognizable": "Unknown",
+   "Bailable": "Unknown",
+   "Court": "Unknown",
+   "Punishment Category": "Other Punishments"
+ },
+ {
+   "IP Section": "193",
+   "Offense": "Giving or fabricating false evidence in a judicial proceeding",
+   "Punishment": "7 Years + Fine",
+   "Cognizable": "No",
+   "Bailable": "Yes",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Imprisonment (3�10 years)"
+ },
+ {
+   "IP Section": "194",
+   "Offense": "Giving or fabricating false evidence with intent to cause any person to be convicted of a capital offence",
+   "Punishment": "Imprisonment for Life or Rigorous Imprisonment for 10 Years + Fine",
+   "Cognizable": "No",
+   "Bailable": "No",
+   "Court": "Court of Session",
+   "Punishment Category": "Life Imprisonment"
+ },
+ {
+   "IP Section": "195",
+   "Offense": "Giving or fabricating false evidence with intent to procure conviction of an offence punishable with imprisonment for life or with imprisonment for 7 Years or upwards",
+   "Punishment": "Same As Offence",
+   "Cognizable": "No",
+   "Bailable": "Yes",
+   "Court": "Court of Session",
+   "Punishment Category": "Other Punishments"
+ },
+ {
+   "IP Section": "195",
+   "Offense": "Threatening any person to give false evidence",
+   "Punishment": "7 Years or Fine or Both",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "As for False Evidence",
+   "Punishment Category": "Imprisonment (3�10 years)"
+ },
+ {
+   "IP Section": "196",
+   "Offense": "Using in a judicial proceeding evidence known to be false or fabricated",
+   "Punishment": "As For False Evidence",
+   "Cognizable": "No",
+   "Bailable": "Same As Offence",
+   "Court": "As for False Evidence",
+   "Punishment Category": "Other Punishments"
+ },
+ {
+   "IP Section": "197",
+   "Offense": "Knowingly issuing or signing a false certificate relating to any fact of which such certificate is by law admissible in evidence",
+   "Punishment": "As for False Evidence",
+   "Cognizable": "No",
+   "Bailable": "Yes",
+   "Court": "As for False Evidence",
+   "Punishment Category": "Other Punishments"
+ },
+ {
+   "IP Section": "198",
+   "Offense": "Using as a true certificate one known to be false in a material point",
+   "Punishment": "As for False Evidence",
+   "Cognizable": "No",
+   "Bailable": "Yes",
+   "Court": "As for False Evidence",
+   "Punishment Category": "Other Punishments"
+ },
+ {
+   "IP Section": "199",
+   "Offense": "False statement made in any declaration which by law receivable as evidence",
+   "Punishment": "As for False Evidence",
+   "Cognizable": "No",
+   "Bailable": "Yes",
+   "Court": "As for False Evidence",
+   "Punishment Category": "Other Punishments"
+ },
+ {
+   "IP Section": "200",
+   "Offense": "Using as true any such declaration known to be false",
+   "Punishment": "As for False Evidence",
+   "Cognizable": "No",
+   "Bailable": "Yes",
+   "Court": "As for False Evidence",
+   "Punishment Category": "Other Punishments"
+ },
+ {
+   "IP Section": "201",
+   "Offense": "Causing disappearance of evidence of an offence committed, or giving false information touching it to screen the offender, If a capital offence",
+   "Punishment": "7 Years + Fine",
+   "Cognizable": "No",
+   "Bailable": "Yes",
+   "Court": "Court of Session",
+   "Punishment Category": "Imprisonment (3�10 years)"
+ },
+ {
+   "IP Section": "202",
+   "Offense": "Intentional omission to give information of an offence by a person legally bound to inform",
+   "Punishment": "6 Months or Fine or Both",
+   "Cognizable": "No",
+   "Bailable": "Yes",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Fine Only"
+ },
+ {
+   "IP Section": "203",
+   "Offense": "Giving false information respecting an offence committed",
+   "Punishment": "2 Years or Fine or Both",
+   "Cognizable": "No",
+   "Bailable": "Yes",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "204",
+   "Offense": "Secreting or destroying any document to prevent its production as evidence",
+   "Punishment": "2 Years or Fine or Both",
+   "Cognizable": "No",
+   "Bailable": "Yes",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "205",
+   "Offense": "False personation for the purpose of any act or proceeding in a suit or criminal prosecution, or for becoming bail or security",
+   "Punishment": "3 Years or Fine or Both",
+   "Cognizable": "No",
+   "Bailable": "Yes",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "206",
+   "Offense": "Fraudulent removal or concealment, etc., of property to prevent its seizure as a forfeiture, or in satisfaction of a Fine under sentence, or in execution of a decree",
+   "Punishment": "2 Years or Fine or Both",
+   "Cognizable": "No",
+   "Bailable": "Yes",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "207",
+   "Offense": "Claiming property without right, or practicing deception touching any right to it, to prevent its being taken as a forfeiture or in satisfaction of a Fine under sentence, or in execution of a decree",
+   "Punishment": "2 Years or Fine or Both",
+   "Cognizable": "No",
+   "Bailable": "Yes",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "208",
+   "Offense": "Fraudulently suffering a decree to pass for a sum not due, or suffering decree to be executed after it has been satisfied",
+   "Punishment": "2 Years or Fine or Both",
+   "Cognizable": "No",
+   "Bailable": "Yes",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "209",
+   "Offense": "False claim in a court of Justice",
+   "Punishment": "2 Years + Fine",
+   "Cognizable": "No",
+   "Bailable": "Yes",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "210",
+   "Offense": "Fraudulently obtaining a decree for a sum not due, or causing a decree to be executed after it has been satisfied",
+   "Punishment": "2 Years or Fine or Both",
+   "Cognizable": "No",
+   "Bailable": "Yes",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "211",
+   "Offense": "False charge of offence made with intent to injure",
+   "Punishment": "2 Years or Fine or Both",
+   "Cognizable": "No",
+   "Bailable": "Yes",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "212",
+   "Offense": "Harbouring an offender, If the offence be capital",
+   "Punishment": "5 Years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "Yes",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Imprisonment (3�10 years)"
+ },
+ {
+   "IP Section": "213",
+   "Offense": "Taking gift, etc., to screen an offender from punishment, If the offence be capital",
+   "Punishment": "7 Years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "Yes",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Imprisonment (3�10 years)"
+ },
+ {
+   "IP Section": "214",
+   "Offense": "Offering gift or restoration of property in consideration of screening offender, If the offence be capital",
+   "Punishment": "7 Years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "Yes",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Imprisonment (3�10 years)"
+ },
+ {
+   "IP Section": "215",
+   "Offense": "Taking gift to help to recover movable property of which a person has been deprived by an offence without causing apprehension of offender",
+   "Punishment": "2 Years or Fine or Both",
+   "Cognizable": "Yes",
+   "Bailable": "Yes",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "216",
+   "Offense": "Harbouring an offender who has escaped from custody, or whose apprehension has been ordered, If the offence be capital",
+   "Punishment": "7 Years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "Yes",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Imprisonment (3�10 years)"
+ },
+ {
+   "IP Section": "216",
+   "Offense": "Harbouring robbers or dacoits",
+   "Punishment": "Rigorous Imprisonment for 7 Years and Fine",
+   "Cognizable": "Yes",
+   "Bailable": "Yes",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Imprisonment (3�10 years)"
+ },
+ {
+   "IP Section": "216",
+   "Offense": "Unknown",
+   "Punishment": "Unknown",
+   "Cognizable": "Unknown",
+   "Bailable": "Unknown",
+   "Court": "Unknown",
+   "Punishment Category": "Other Punishments"
+ },
+ {
+   "IP Section": "217",
+   "Offense": "Public servant disobeying a direction of law with intent to save person from punishment, or property from forfeiture",
+   "Punishment": "2 Years or Fine or Both",
+   "Cognizable": "No",
+   "Bailable": "Yes",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "218",
+   "Offense": "Public servant framing an incorrect record or writing with intent to save person from punishment, or property from forfeiture",
+   "Punishment": "3 Years or Fine or Both",
+   "Cognizable": "Yes",
+   "Bailable": "Yes",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "219",
+   "Offense": "Public servant in a judicial proceeding corruptly Making and pronouncing an order, report, Verdict, or decision which he knows to be contrary to law",
+   "Punishment": "7 Years or Fine or Both",
+   "Cognizable": "No",
+   "Bailable": "Yes",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Imprisonment (3�10 years)"
+ },
+ {
+   "IP Section": "220",
+   "Offense": "Commitment for trial or confinement by a person Having authority, who Knows that he is Acting contrary to law",
+   "Punishment": "7 Years or Fine or Both",
+   "Cognizable": "No",
+   "Bailable": "Yes",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Imprisonment (3�10 years)"
+ },
+ {
+   "IP Section": "221",
+   "Offense": "Intentional omission to apprehend on the part of a public servant bound by law to apprehend an offender, If the offence be Capital",
+   "Punishment": "7 Years with or without Fine",
+   "Cognizable": "Same As Offence",
+   "Bailable": "Yes",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Imprisonment (3�10 years)"
+ },
+ {
+   "IP Section": "222",
+   "Offense": "Intentional omission to apprehend on the part of A public servant bound by law to apprehend person under sentence of a court of Justice, If under sentence of death",
+   "Punishment": "Imprisonment for Life or 14 Years with or without Fine",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Court of Session",
+   "Punishment Category": "Life Imprisonment"
+ },
+ {
+   "IP Section": "223",
+   "Offense": "Escape from confinement negligently suffered by a public servant",
+   "Punishment": "Simple Imprisonment for 2 Years or Fine or Both",
+   "Cognizable": "No",
+   "Bailable": "Yes",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "227",
+   "Offense": "Violation of condition of remission of punishment",
+   "Punishment": "Original Sentence, minus time already served",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Same As Offence",
+   "Punishment Category": "Other Punishments"
+ },
+ {
+   "IP Section": "228",
+   "Offense": "Intentional insult or interruption to a public servant sitting in any stage of a judicial proceeding",
+   "Punishment": "Simple Imprisonment for 6 Months or Fine or Both",
+   "Cognizable": "Non-Cognizable; Cognizable in A.P.",
+   "Bailable": "Yes",
+   "Court": "Same As Offence, subject to Ch. XXVI, or if not committed in a Court, Any Magistrate",
+   "Punishment Category": "Other Punishments"
+ },
+ {
+   "IP Section": "228",
+   "Offense": "Disclosure of identity of the victim of certain offences, etc.",
+   "Punishment": "2 Years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "Yes",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "229",
+   "Offense": "Personation of a juror or assessor",
+   "Punishment": "2 Years or Fine or Both",
+   "Cognizable": "No",
+   "Bailable": "Yes",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "229",
+   "Offense": "Failure by person released on bail or bond to appear in Court",
+   "Punishment": "1 Year or Fine or Both",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "230",
+   "Offense": "Unknown",
+   "Punishment": "Unknown",
+   "Cognizable": "Unknown",
+   "Bailable": "Unknown",
+   "Court": "Unknown",
+   "Punishment Category": "Other Punishments"
+ },
+ {
+   "IP Section": "231",
+   "Offense": "Counterfeiting, or performing any part of the process of counterfeiting coin",
+   "Punishment": "7 Years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Imprisonment (3�10 years)"
+ },
+ {
+   "IP Section": "232",
+   "Offense": "Counterfeiting, or performing any part of the process of counterfeiting coin",
+   "Punishment": "Imprisonment for Life or 10 Years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Court of Session",
+   "Punishment Category": "Life Imprisonment"
+ },
+ {
+   "IP Section": "233",
+   "Offense": "Making, buying or selling instrument for the purpose of counterfeiting coin",
+   "Punishment": "3 Years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "234",
+   "Offense": "Making, buying or selling instrument for the purpose of counterfeiting Indian coin",
+   "Punishment": "7 Years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Court of Session",
+   "Punishment Category": "Imprisonment (3�10 years)"
+ },
+ {
+   "IP Section": "235",
+   "Offense": "Possession of instrument or material for the purpose of using the same for counterfeiting coin",
+   "Punishment": "3 Years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "236",
+   "Offense": "Abetting, in India, the counterfeiting, out of India, of coin",
+   "Punishment": "The punishment provided for abetting the counterfeiting of such coin within India",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Other Punishments"
+ },
+ {
+   "IP Section": "237",
+   "Offense": "Import or export of counterfeit coin, knowing the same to be counterfeit",
+   "Punishment": "3 Years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "238",
+   "Offense": "Import or export of counterfeit of Indian coin, knowing the same to be counterfeit",
+   "Punishment": "Imprisonment for Life or 10 Years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Court of Session",
+   "Punishment Category": "Life Imprisonment"
+ },
+ {
+   "IP Section": "239",
+   "Offense": "Having any counterfeit coin known to be such when it came into possession, and delivering, etc., the same to any person",
+   "Punishment": "5 Years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Imprisonment (3�10 years)"
+ },
+ {
+   "IP Section": "240",
+   "Offense": "Same with respect to Indian coin",
+   "Punishment": "10 Years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Court of Session",
+   "Punishment Category": "Imprisonment (3�10 years)"
+ },
+ {
+   "IP Section": "241",
+   "Offense": "Knowingly delivering to another any counterfeit coin as genuine, which, when first possessed, the deliverer did not know to be counterfeit",
+   "Punishment": "2 Years or Fine or 10 x Value of Coin or Both",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "242",
+   "Offense": "Possession of counterfeit coin by a person who knew it to be counterfeit when he became possessed thereof",
+   "Punishment": "3 Years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "243",
+   "Offense": "Possession of Indian coin by a person who knew it to be counterfeit when he became possessed thereof",
+   "Punishment": "7 Years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Imprisonment (3�10 years)"
+ },
+ {
+   "IP Section": "244",
+   "Offense": "Person employed in a Mint causing coin to be of a different weight or composition from that fixed by law",
+   "Punishment": "7 Years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Imprisonment (3�10 years)"
+ },
+ {
+   "IP Section": "245",
+   "Offense": "Unlawfully taking from a Mint any coining instrument",
+   "Punishment": "7 Years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Imprisonment (3�10 years)"
+ },
+ {
+   "IP Section": "246",
+   "Offense": "Fraudulently diminishing the weight or altering the composition of any coin",
+   "Punishment": "3 Years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "247",
+   "Offense": "Fraudulently diminishing the weight or altering the composition of Indian coin",
+   "Punishment": "7 Years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Imprisonment (3�10 years)"
+ },
+ {
+   "IP Section": "248",
+   "Offense": "Altering appearance of any coin with intent that it shall pass as a coin of a different description",
+   "Punishment": "3 Years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "249",
+   "Offense": "Altering appearance of Indian coin with intent that it shall pass as a coin of a different description",
+   "Punishment": "7 Years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Imprisonment (3�10 years)"
+ },
+ {
+   "IP Section": "250",
+   "Offense": "Delivery to another of coin possessed with the knowledge that it is altered",
+   "Punishment": "5 Years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Imprisonment (3�10 years)"
+ },
+ {
+   "IP Section": "251",
+   "Offense": "Delivery of Indian coin possessed with the knowledge that it is altered",
+   "Punishment": "10 Years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Court of Session",
+   "Punishment Category": "Imprisonment (3�10 years)"
+ },
+ {
+   "IP Section": "252",
+   "Offense": "Possession of altered coin by a person who knew it to be altered when he became possessed thereof",
+   "Punishment": "3 Years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "253",
+   "Offense": "Possession of Indian coin by a person who knew it to be altered when he became possessed thereof",
+   "Punishment": "5 Years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Imprisonment (3�10 years)"
+ },
+ {
+   "IP Section": "254",
+   "Offense": "Delivery to another of coin as genuine which, when first possessed, the deliverer did not know to be altered",
+   "Punishment": "2 Years or Fine or 10 x Value of Coin",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "255",
+   "Offense": "Counterfeiting a Government stamp",
+   "Punishment": "Imprisonment for Life or 10 Years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Court of Session",
+   "Punishment Category": "Life Imprisonment"
+ },
+ {
+   "IP Section": "256",
+   "Offense": "Having possession of an instrument or material for the purpose of counterfeiting a Government stamp",
+   "Punishment": "7 Years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Imprisonment (3�10 years)"
+ },
+ {
+   "IP Section": "257",
+   "Offense": "Making, buying or selling instrument for the purpose of counterfeiting a Government stamp",
+   "Punishment": "7 Years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Imprisonment (3�10 years)"
+ },
+ {
+   "IP Section": "258",
+   "Offense": "Sale of counterfeit Government stamp",
+   "Punishment": "7 Years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Imprisonment (3�10 years)"
+ },
+ {
+   "IP Section": "259",
+   "Offense": "Having possession of a counterfeit Government stamp",
+   "Punishment": "7 Years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "Yes",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Imprisonment (3�10 years)"
+ },
+ {
+   "IP Section": "260",
+   "Offense": "Using as genuine a Government stamp known to be counterfeit",
+   "Punishment": "7 Years or Fine or Both",
+   "Cognizable": "Yes",
+   "Bailable": "Yes",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Imprisonment (3�10 years)"
+ },
+ {
+   "IP Section": "261",
+   "Offense": "Effacing any writing from a substance bearing a Government stamp, or removing from a document a stamp used for it, with intent to cause a loss to Government",
+   "Punishment": "3 Years or Fine or Both",
+   "Cognizable": "Yes",
+   "Bailable": "Yes",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "262",
+   "Offense": "Using a Government stamp known to have been before used",
+   "Punishment": "2 Years or Fine or Both",
+   "Cognizable": "Yes",
+   "Bailable": "Yes",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "263",
+   "Offense": "Erasure of mark denoting that stamps have been used",
+   "Punishment": "3 Years or Fine or Both",
+   "Cognizable": "Yes",
+   "Bailable": "Yes",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "263",
+   "Offense": "Fictitious stamps",
+   "Punishment": "Fine",
+   "Cognizable": "Yes",
+   "Bailable": "Yes",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Fine Only"
+ },
+ {
+   "IP Section": "264",
+   "Offense": "Fraudulent use of false instrument for weighing",
+   "Punishment": "1 Year or Fine or Both",
+   "Cognizable": "No",
+   "Bailable": "Yes",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "265",
+   "Offense": "Fraudulent use of false weight or measure",
+   "Punishment": "1 Year or Fine or Both",
+   "Cognizable": "No",
+   "Bailable": "Yes",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "266",
+   "Offense": "Being in possession of false weights or measures for fraudulent use",
+   "Punishment": "1 Year or Fine or Both",
+   "Cognizable": "No",
+   "Bailable": "Yes",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "267",
+   "Offense": "Making or selling false weights or measures for fraudulent use",
+   "Punishment": "1 Year or Fine or Both",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "268",
+   "Offense": "Unknown",
+   "Punishment": "Unknown",
+   "Cognizable": "Unknown",
+   "Bailable": "Unknown",
+   "Court": "Unknown",
+   "Punishment Category": "Other Punishments"
+ },
+ {
+   "IP Section": "269",
+   "Offense": "Negligently doing any act known to be likely to spread infection of any disease dangerous to life",
+   "Punishment": "6 Months or Fine or Both",
+   "Cognizable": "Yes",
+   "Bailable": "Yes",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Fine Only"
+ },
+ {
+   "IP Section": "270",
+   "Offense": "Malignantly doing any act known to be likely to spread infection of any disease dangerous to life",
+   "Punishment": "2 Years or Fine or Both",
+   "Cognizable": "Yes",
+   "Bailable": "Yes",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "271",
+   "Offense": "Knowingly disobeying any quarantine rule",
+   "Punishment": "6 Months or Fine or Both",
+   "Cognizable": "No",
+   "Bailable": "Yes",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Fine Only"
+ },
+ {
+   "IP Section": "272",
+   "Offense": "Adulterating food or drink intended for sale, so as to make the same noxious",
+   "Punishment": "6 Months or Fine or Both",
+   "Cognizable": "No",
+   "Bailable": "Yes",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Fine Only"
+ },
+ {
+   "IP Section": "273",
+   "Offense": "Selling any food or drink as food and drink, knowing the same to be noxious",
+   "Punishment": "6 Months or Fine or Both",
+   "Cognizable": "No",
+   "Bailable": "Yes",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Fine Only"
+ },
+ {
+   "IP Section": "274",
+   "Offense": "Adulterating any drug or medical preparation intended for sale so as to lessen its efficacy, or to change its operation, or to make it noxious",
+   "Punishment": "6 Months or Fine or Both",
+   "Cognizable": "No",
+   "Bailable": "No",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Fine Only"
+ },
+ {
+   "IP Section": "275",
+   "Offense": "Offering for sale or issuing from a dispensary any drug or medical preparation known to have been adulterated",
+   "Punishment": "6 Months or Fine or Both",
+   "Cognizable": "No",
+   "Bailable": "Yes",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Fine Only"
+ },
+ {
+   "IP Section": "276",
+   "Offense": "Knowingly selling or issuing from a dispensary any drug or medical preparation as a different drug or medical preparation",
+   "Punishment": "6 Months or Fine or Both",
+   "Cognizable": "No",
+   "Bailable": "Yes",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Fine Only"
+ },
+ {
+   "IP Section": "277",
+   "Offense": "Defiling the water of a public spring or reservoir",
+   "Punishment": "3 Months or Fine or Both",
+   "Cognizable": "Yes",
+   "Bailable": "Yes",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Fine Only"
+ },
+ {
+   "IP Section": "278",
+   "Offense": "Making atmosphere noxious to health",
+   "Punishment": "Fine",
+   "Cognizable": "No",
+   "Bailable": "Yes",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Fine Only"
+ },
+ {
+   "IP Section": "279",
+   "Offense": "Driving or riding on a public way so rashly or negligently as to endanger human life, etc.",
+   "Punishment": "6 Months or Fine or Both",
+   "Cognizable": "Yes",
+   "Bailable": "Yes",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Fine Only"
+ },
+ {
+   "IP Section": "280",
+   "Offense": "Navigating any vessel so rashly or negligently as to endanger human life, etc.",
+   "Punishment": "6 Months or Fine or Both",
+   "Cognizable": "Yes",
+   "Bailable": "Yes",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Fine Only"
+ },
+ {
+   "IP Section": "281",
+   "Offense": "Exhibition of a false light, mark or buoy",
+   "Punishment": "7 Years or Fine or Both",
+   "Cognizable": "Yes",
+   "Bailable": "Yes",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Imprisonment (3�10 years)"
+ },
+ {
+   "IP Section": "282",
+   "Offense": "Conveying for hire any person by water, in a vessel in such a state, or so loaded, as to endanger his life",
+   "Punishment": "6 Months or Fine or Both",
+   "Cognizable": "Yes",
+   "Bailable": "Yes",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Fine Only"
+ },
+ {
+   "IP Section": "283",
+   "Offense": "Causing danger, obstruction or, injury in any public way or line of navigation",
+   "Punishment": "Fine",
+   "Cognizable": "Yes",
+   "Bailable": "Yes",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Fine Only"
+ },
+ {
+   "IP Section": "284",
+   "Offense": "Dealing with any poisonous substance so as to endanger human life, etc.",
+   "Punishment": "6 Months or Fine or Both",
+   "Cognizable": "Yes",
+   "Bailable": "Yes",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Fine Only"
+ },
+ {
+   "IP Section": "285",
+   "Offense": "Dealing with fire or any combustible matter so as to endanger human life, etc.",
+   "Punishment": "6 Months or Fine or Both",
+   "Cognizable": "Yes",
+   "Bailable": "Yes",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Fine Only"
+ },
+ {
+   "IP Section": "286",
+   "Offense": "So dealing with any explosive substance",
+   "Punishment": "6 Months or Fine or Both",
+   "Cognizable": "Yes",
+   "Bailable": "Yes",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Fine Only"
+ },
+ {
+   "IP Section": "287",
+   "Offense": "So dealing with any machinery",
+   "Punishment": "6 Months or Fine or Both",
+   "Cognizable": "No",
+   "Bailable": "Yes",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Fine Only"
+ },
+ {
+   "IP Section": "288",
+   "Offense": "A person omitting to guard against probable danger to human life by the fall of any building over which he has a right entitling him to pull it down or repair it",
+   "Punishment": "6 Months or Fine or Both",
+   "Cognizable": "No",
+   "Bailable": "Yes",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Fine Only"
+ },
+ {
+   "IP Section": "289",
+   "Offense": "A person omitting to take order with any animal in his possession, so as to guard against danger to human life, or of grievous hurt, from such animal",
+   "Punishment": "6 Months or Fine or Both",
+   "Cognizable": "Yes",
+   "Bailable": "Yes",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Fine Only"
+ },
+ {
+   "IP Section": "290",
+   "Offense": "Committing a public nuisance",
+   "Punishment": "Fine",
+   "Cognizable": "No",
+   "Bailable": "Yes",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Fine Only"
+ },
+ {
+   "IP Section": "291",
+   "Offense": "Committing a nuisance after injunction to discontinue",
+   "Punishment": "Simple Imprisonment for 6 Months, or Fine, or Both",
+   "Cognizable": "Yes",
+   "Bailable": "Yes",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Other Punishments"
+ },
+ {
+   "IP Section": "292",
+   "Offense": "Sale, etc., of obscene books, etc.",
+   "Punishment": "First conviction 2 Years + Fine, then 5 Years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "Yes",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "293",
+   "Offense": "Sale etc., of obscene objects to young persons",
+   "Punishment": "First conviction 3 Years + Fine, then 7 Years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "Yes",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "294",
+   "Offense": "Obscene Songs",
+   "Punishment": "3 Months or Fine or Both",
+   "Cognizable": "Yes",
+   "Bailable": "Yes",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Fine Only"
+ },
+ {
+   "IP Section": "294",
+   "Offense": "Keeping a lottery office",
+   "Punishment": "6 Months or Fine or Both",
+   "Cognizable": "No",
+   "Bailable": "Yes",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Fine Only"
+ },
+ {
+   "IP Section": "295",
+   "Offense": "Destroying, damaging or defiling a place of worship or sacred object with intent to insult the religion of any class of persons",
+   "Punishment": "2 Years or Fine or Both",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "295",
+   "Offense": "Maliciously insulting the religions or the religious beliefs of any class",
+   "Punishment": "3 Years or Fine or Both",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "296",
+   "Offense": "Causing a disturbance to an assembly engaged in religious worship",
+   "Punishment": "1 Year or Fine or Both",
+   "Cognizable": "Yes",
+   "Bailable": "Yes",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "297",
+   "Offense": "Trespassing in place of worship or sepulchre, disturbing funeral with intention to wound the feeling or to insult the religion of any person, or offering indignity to a human corpse",
+   "Punishment": "1 Year or Fine or Both",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "298",
+   "Offense": "Uttering any word or making any sound in the hearing or making any gesture, or placing any object in the sight of any person, with intention to wound his religious feelings",
+   "Punishment": "1 Year or Fine or Both",
+   "Cognizable": "No",
+   "Bailable": "No",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "299",
+   "Offense": "Unknown",
+   "Punishment": "Unknown",
+   "Cognizable": "Unknown",
+   "Bailable": "Unknown",
+   "Court": "Unknown",
+   "Punishment Category": "Other Punishments"
+ },
+ {
+   "IP Section": "29",
+   "Offense": "Unknown",
+   "Punishment": "Unknown",
+   "Cognizable": "Unknown",
+   "Bailable": "Unknown",
+   "Court": "Unknown",
+   "Punishment Category": "Other Punishments"
+ },
+ {
+   "IP Section": "300",
+   "Offense": "Unknown",
+   "Punishment": "Unknown",
+   "Cognizable": "Unknown",
+   "Bailable": "Unknown",
+   "Court": "Unknown",
+   "Punishment Category": "Other Punishments"
+ },
+ {
+   "IP Section": "301",
+   "Offense": "Unknown",
+   "Punishment": "Unknown",
+   "Cognizable": "Unknown",
+   "Bailable": "Unknown",
+   "Court": "Unknown",
+   "Punishment Category": "Other Punishments"
+ },
+ {
+   "IP Section": "302",
+   "Offense": "Murder",
+   "Punishment": "Death or Imprisonment for Life + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Court of Session",
+   "Punishment Category": "Life Imprisonment"
+ },
+ {
+   "IP Section": "302",
+   "Offense": "Murder by a person under Sentence of imprisonment for life",
+   "Punishment": "Death",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Court of Session",
+   "Punishment Category": "Other Punishments"
+ },
+ {
+   "IP Section": "302",
+   "Offense": "Culpable homicide not amounting to murder, If act by which the death is caused is done with intention of causing death, etc.",
+   "Punishment": "Imprisonment for Life or 10 Years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Court of Session",
+   "Punishment Category": "Life Imprisonment"
+ },
+ {
+   "IP Section": "304",
+   "Offense": "Causing death by rash or negligent act",
+   "Punishment": "2 Years or Fine or Both",
+   "Cognizable": "Yes",
+   "Bailable": "Yes",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "304",
+   "Offense": "Dowry death",
+   "Punishment": "Imprisonment for not less than 7 Years, but upto Life",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Court of Session",
+   "Punishment Category": "Life Imprisonment"
+ },
+ {
+   "IP Section": "305",
+   "Offense": "Abetment of suicide committed by child or insane or delirious person or an idiot, or a person intoxicated",
+   "Punishment": "Death or Imprisonment for Life or 10 Years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Court of Session",
+   "Punishment Category": "Life Imprisonment"
+ },
+ {
+   "IP Section": "306",
+   "Offense": "Abetting the Commission of suicide",
+   "Punishment": "10 Years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Court of Session",
+   "Punishment Category": "Imprisonment (3�10 years)"
+ },
+ {
+   "IP Section": "302",
+   "Offense": "Attempt to murder",
+   "Punishment": "10 Years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Court of Session",
+   "Punishment Category": "Imprisonment (3�10 years)"
+ },
+ {
+   "IP Section": "308",
+   "Offense": "Attempt to commit culpable homicide",
+   "Punishment": "3 Years or Fine or Both",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Court of Session",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "309",
+   "Offense": "Attempt to commit suicide",
+   "Punishment": "Simple Imprisonment for 1 Year or Fine or Both",
+   "Cognizable": "Yes",
+   "Bailable": "Yes",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "310",
+   "Offense": "Unknown",
+   "Punishment": "Unknown",
+   "Cognizable": "Unknown",
+   "Bailable": "Unknown",
+   "Court": "Unknown",
+   "Punishment Category": "Other Punishments"
+ },
+ {
+   "IP Section": "311",
+   "Offense": "OffencePunishment",
+   "Punishment": "Being a thug",
+   "Cognizable": "Imprisonment for life and Fine",
+   "Bailable": "Cognizable",
+   "Court": "Non-Bailable",
+   "Punishment Category": "Other Punishments"
+ },
+ {
+   "IP Section": "312",
+   "Offense": "Causing miscarriage",
+   "Punishment": "3 Years or Fine or Both",
+   "Cognizable": "No",
+   "Bailable": "Yes",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "313",
+   "Offense": "Causing miscarriage without woman’s consent",
+   "Punishment": "Imprisonment for Life or 10 Years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Court of Session",
+   "Punishment Category": "Life Imprisonment"
+ },
+ {
+   "IP Section": "314",
+   "Offense": "Death caused by an act done with intent to cause miscarriage",
+   "Punishment": "10 Years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Court of Session",
+   "Punishment Category": "Imprisonment (3�10 years)"
+ },
+ {
+   "IP Section": "315",
+   "Offense": "Act done with intent to prevent a child being born alive, or to cause it to die after its birth",
+   "Punishment": "10 Years or Fine or Both",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Court of Session",
+   "Punishment Category": "Imprisonment (3�10 years)"
+ },
+ {
+   "IP Section": "316",
+   "Offense": "Causing death of a quick unborn child by an act amounting to culpable homicide",
+   "Punishment": "10 Years and Fine",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Court of Session",
+   "Punishment Category": "Imprisonment (3�10 years)"
+ },
+ {
+   "IP Section": "317",
+   "Offense": "Exposure of a child under 12 Years of age by parent or person having care of it with intention of wholly abandoning it",
+   "Punishment": "7 Years or Fine or Both",
+   "Cognizable": "Yes",
+   "Bailable": "Yes",
+   "Court": "Magistrate First Class; Session in M.P.",
+   "Punishment Category": "Imprisonment (3�10 years)"
+ },
+ {
+   "IP Section": "318",
+   "Offense": "Concealment of birth by secret disposal of dead body",
+   "Punishment": "2 Years or Fine or Both",
+   "Cognizable": "Yes",
+   "Bailable": "Yes",
+   "Court": "Magistrate First Class; Session in M.P.",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "319",
+   "Offense": "Unknown",
+   "Punishment": "Unknown",
+   "Cognizable": "Unknown",
+   "Bailable": "Unknown",
+   "Court": "Unknown",
+   "Punishment Category": "Other Punishments"
+ },
+ {
+   "IP Section": "320",
+   "Offense": "Unknown",
+   "Punishment": "Unknown",
+   "Cognizable": "Unknown",
+   "Bailable": "Unknown",
+   "Court": "Unknown",
+   "Punishment Category": "Other Punishments"
+ },
+ {
+   "IP Section": "321",
+   "Offense": "Unknown",
+   "Punishment": "Unknown",
+   "Cognizable": "Unknown",
+   "Bailable": "Unknown",
+   "Court": "Unknown",
+   "Punishment Category": "Other Punishments"
+ },
+ {
+   "IP Section": "322",
+   "Offense": "Unknown",
+   "Punishment": "Unknown",
+   "Cognizable": "Unknown",
+   "Bailable": "Unknown",
+   "Court": "Unknown",
+   "Punishment Category": "Other Punishments"
+ },
+ {
+   "IP Section": "323",
+   "Offense": "Voluntarily causing hurt",
+   "Punishment": "1 Year or Fine or Both",
+   "Cognizable": "No",
+   "Bailable": "Yes",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "324",
+   "Offense": "Voluntarily causing hurt by dangerous weapons or means",
+   "Punishment": "3 Years or Fine or Both",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "325",
+   "Offense": "Voluntarily causing grievous hurt",
+   "Punishment": "7 Years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "Yes",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Imprisonment (3�10 years)"
+ },
+ {
+   "IP Section": "326",
+   "Offense": "Voluntarily causing grievous hurt by dangerous weapons or means",
+   "Punishment": "Imprisonment for Life or 10 Years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Magistrate First Class; Session in M.P.",
+   "Punishment Category": "Life Imprisonment"
+ },
+ {
+   "IP Section": "326",
+   "Offense": "Voluntarily causing grievous hurt by use of acid, etc.",
+   "Punishment": "10 years to Life + Fine paid to the victim",
+   "Cognizable": "Yes",
+   "Bailable": "Non-bailable",
+   "Court": "Court of Session",
+   "Punishment Category": "Life Imprisonment"
+ },
+ {
+   "IP Section": "326",
+   "Offense": "Voluntarily throwing or attempting to throw acid",
+   "Punishment": "5 to 7 years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "Non-bailable",
+   "Court": "Court of Session",
+   "Punishment Category": "Imprisonment (3�10 years)"
+ },
+ {
+   "IP Section": "327",
+   "Offense": "Voluntarily causing hurt to extort property or a valuable security, or to constrain to do anything which is illegal or which may facilitate the commission of an offence",
+   "Punishment": "10 Years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Imprisonment (3�10 years)"
+ },
+ {
+   "IP Section": "328",
+   "Offense": "Administering stupefying drug with intent to cause hurt, etc.",
+   "Punishment": "10 Years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Court of Session",
+   "Punishment Category": "Imprisonment (3�10 years)"
+ },
+ {
+   "IP Section": "329",
+   "Offense": "Voluntarily causing grievous hurt to extort property or a valuable security, or to constrain to do anything which is illegal, or which may facilitate the commission of an offence",
+   "Punishment": "Imprisonment for Life or 10 Years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Court of Session",
+   "Punishment Category": "Life Imprisonment"
+ },
+ {
+   "IP Section": "330",
+   "Offense": "Voluntarily causing hurt to extort confession or information of property, etc.",
+   "Punishment": "7 Years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "Yes",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Imprisonment (3�10 years)"
+ },
+ {
+   "IP Section": "331",
+   "Offense": "Voluntarily causing grievous hurt to extort confession or information or to compel restoration of property, etc.",
+   "Punishment": "10 Years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Court of Session",
+   "Punishment Category": "Imprisonment (3�10 years)"
+ },
+ {
+   "IP Section": "332",
+   "Offense": "Voluntarily causing hurt to deter public servant from his duty",
+   "Punishment": "3 Years or Fine or Both",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "333",
+   "Offense": "Voluntarily causing grievous hurt to deter public servant from his duty",
+   "Punishment": "10 Years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Court of Session",
+   "Punishment Category": "Imprisonment (3�10 years)"
+ },
+ {
+   "IP Section": "334",
+   "Offense": "Voluntarily causing hurt on grave and sudden provocation, not intending to hurt any other than the person who gave the provocation",
+   "Punishment": "1 Month or Fine or Both",
+   "Cognizable": "No",
+   "Bailable": "Yes",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Fine Only"
+ },
+ {
+   "IP Section": "335",
+   "Offense": "Causing grievous hurt on Grave and sudden provocation, not intending to hurt and other than the person who gave the provocation",
+   "Punishment": "4 Years or Fine or Both",
+   "Cognizable": "Yes",
+   "Bailable": "Yes",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Imprisonment (3�10 years)"
+ },
+ {
+   "IP Section": "336",
+   "Offense": "Doing any act which endangers human life or the personal safety of others",
+   "Punishment": "3 Months or Fine or Both",
+   "Cognizable": "Yes",
+   "Bailable": "Yes",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Fine Only"
+ },
+ {
+   "IP Section": "337",
+   "Offense": "Causing hurt by an act which endangers human life, etc.",
+   "Punishment": "6 Months or Fine or Both",
+   "Cognizable": "Yes",
+   "Bailable": "Yes",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Fine Only"
+ },
+ {
+   "IP Section": "338",
+   "Offense": "Causing grievous hurt by an act which endangers human life, etc.",
+   "Punishment": "2 Years or Fine or Both",
+   "Cognizable": "Yes",
+   "Bailable": "Yes",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "339",
+   "Offense": "Unknown",
+   "Punishment": "Unknown",
+   "Cognizable": "Unknown",
+   "Bailable": "Unknown",
+   "Court": "Unknown",
+   "Punishment Category": "Other Punishments"
+ },
+ {
+   "IP Section": "340",
+   "Offense": "Unknown",
+   "Punishment": "Unknown",
+   "Cognizable": "Unknown",
+   "Bailable": "Unknown",
+   "Court": "Unknown",
+   "Punishment Category": "Other Punishments"
+ },
+ {
+   "IP Section": "341",
+   "Offense": "Wrongfully restraining any person",
+   "Punishment": "Simple Imprisonment for 1 Month or Fine or Both",
+   "Cognizable": "Yes",
+   "Bailable": "Yes",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Other Punishments"
+ },
+ {
+   "IP Section": "342",
+   "Offense": "Wrongfully confining any person",
+   "Punishment": "1 Year or Fine or Both",
+   "Cognizable": "Yes",
+   "Bailable": "Yes",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "343",
+   "Offense": "Wrongfully confining for 3 or more days",
+   "Punishment": "2 Years or Fine or Both",
+   "Cognizable": "Yes",
+   "Bailable": "Yes",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "344",
+   "Offense": "Wrongfully confining for 10 or more days",
+   "Punishment": "3 Years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "Yes",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "345",
+   "Offense": "Keeping any person in wrongful confinement, knowing that a writ has been issued for his liberation",
+   "Punishment": "2 Years in addition to imprisonment under any other section",
+   "Cognizable": "Yes",
+   "Bailable": "Yes",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "346",
+   "Offense": "Wrongful confinement in secret",
+   "Punishment": "2 Years in addition to imprisonment under any other section",
+   "Cognizable": "Yes",
+   "Bailable": "Yes",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "347",
+   "Offense": "Wrongful confinement for the purpose of extorting property, or constraining to an illegal act, etc.",
+   "Punishment": "3 Years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "Yes",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "348",
+   "Offense": "Wrongful confinement for the purpose of extorting confession or information, or of compelling restoration of property etc.",
+   "Punishment": "3 Years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "Yes",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "349",
+   "Offense": "Unknown",
+   "Punishment": "Unknown",
+   "Cognizable": "Unknown",
+   "Bailable": "Unknown",
+   "Court": "Unknown",
+   "Punishment Category": "Other Punishments"
+ },
+ {
+   "IP Section": "350",
+   "Offense": "Unknown",
+   "Punishment": "Unknown",
+   "Cognizable": "Unknown",
+   "Bailable": "Unknown",
+   "Court": "Unknown",
+   "Punishment Category": "Other Punishments"
+ },
+ {
+   "IP Section": "351",
+   "Offense": "Unknown",
+   "Punishment": "Unknown",
+   "Cognizable": "Unknown",
+   "Bailable": "Unknown",
+   "Court": "Unknown",
+   "Punishment Category": "Other Punishments"
+ },
+ {
+   "IP Section": "351",
+   "Offense": "Assault or use of criminal force otherwise than on grave provocation",
+   "Punishment": "3 Months or Fine or Both",
+   "Cognizable": "No",
+   "Bailable": "Yes",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Fine Only"
+ },
+ {
+   "IP Section": "351",
+   "Offense": "Assault or use of criminal force to deter a public servant from discharge of his duty",
+   "Punishment": "2 Years or Fine or Both",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "351",
+   "Offense": "Assault or use of criminal force to woman with intent to outrage her modesty",
+   "Punishment": "1 to 5 years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "Non-bailable",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Imprisonment (3�10 years)"
+ },
+ {
+   "IP Section": "354",
+   "Offense": "Sexual harassment of the nature of unwelcome physical contact and advances or a demand or request for sexual favours or showing pornography",
+   "Punishment": "Upto 3 years or Fine or Both",
+   "Cognizable": "Yes",
+   "Bailable": "Yes",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "354",
+   "Offense": "Criminal force to woman with intent to disrobe",
+   "Punishment": "3 to 7 years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "Non-bailable",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Imprisonment (3�10 years)"
+ },
+ {
+   "IP Section": "354",
+   "Offense": "Unknown",
+   "Punishment": "Unknown",
+   "Cognizable": "Unknown",
+   "Bailable": "Unknown",
+   "Court": "Unknown",
+   "Punishment Category": "Other Punishments"
+ },
+ {
+   "IP Section": "354",
+   "Offense": "Stalking",
+   "Punishment": "Upto 3 years + Fine for first conviction",
+   "Cognizable": "Yes",
+   "Bailable": "Yes",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "351",
+   "Offense": "Assault or criminal force with intent to dishonour a person, otherwise than on grave and sudden provocation",
+   "Punishment": "2 Years or Fine or Both",
+   "Cognizable": "No",
+   "Bailable": "Yes",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "379",
+   "Offense": "Assault or criminal force in attempt to commit theft of property worn or carried by a person",
+   "Punishment": "2 Years or Fine or Both",
+   "Cognizable": "Yes",
+   "Bailable": "Yes",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "351",
+   "Offense": "Assault or use of criminal Force in attempt wrongfully to confine a person",
+   "Punishment": "1 Year or Fine or Both",
+   "Cognizable": "Yes",
+   "Bailable": "Yes",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "351",
+   "Offense": "Assault or use of criminal force on grave and sudden provocation",
+   "Punishment": "Simple Imprisonment for 1 Month or Fine or Both",
+   "Cognizable": "No",
+   "Bailable": "Yes",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Other Punishments"
+ },
+ {
+   "IP Section": "359",
+   "Offense": "Unknown",
+   "Punishment": "Unknown",
+   "Cognizable": "Unknown",
+   "Bailable": "Unknown",
+   "Court": "Unknown",
+   "Punishment Category": "Other Punishments"
+ },
+ {
+   "IP Section": "360",
+   "Offense": "Unknown",
+   "Punishment": "Unknown",
+   "Cognizable": "Unknown",
+   "Bailable": "Unknown",
+   "Court": "Unknown",
+   "Punishment Category": "Other Punishments"
+ },
+ {
+   "IP Section": "361",
+   "Offense": "Unknown",
+   "Punishment": "Unknown",
+   "Cognizable": "Unknown",
+   "Bailable": "Unknown",
+   "Court": "Unknown",
+   "Punishment Category": "Other Punishments"
+ },
+ {
+   "IP Section": "362",
+   "Offense": "Unknown",
+   "Punishment": "Unknown",
+   "Cognizable": "Unknown",
+   "Bailable": "Unknown",
+   "Court": "Unknown",
+   "Punishment Category": "Other Punishments"
+ },
+ {
+   "IP Section": "363",
+   "Offense": "Kidnapping",
+   "Punishment": "7 Years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "Yes",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Imprisonment (3�10 years)"
+ },
+ {
+   "IP Section": "363",
+   "Offense": "Kidnapping or obtaining the custody of a minor in order that such minor may be employed or used for purposes of begging",
+   "Punishment": "10 Years + Fine.",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Imprisonment (3�10 years)"
+ },
+ {
+   "IP Section": "302",
+   "Offense": "Kidnapping or abducting in order to murder",
+   "Punishment": "Imprisonment for Life or Rigorous Imprisonment for 10 Years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Court of Session",
+   "Punishment Category": "Life Imprisonment"
+ },
+ {
+   "IP Section": "363",
+   "Offense": "Kidnapping for ransom, etc.",
+   "Punishment": "Death or Life + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Court of Session",
+   "Punishment Category": "Life Imprisonment"
+ },
+ {
+   "IP Section": "363",
+   "Offense": "Kidnapping or abducting with intent secretly and wrongfully to confine a person",
+   "Punishment": "7 Years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Imprisonment (3�10 years)"
+ },
+ {
+   "IP Section": "363",
+   "Offense": "Kidnapping or abducting a woman to compel her marriage or to cause her defilement etc.",
+   "Punishment": "10 Years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Court of Session",
+   "Punishment Category": "Imprisonment (3�10 years)"
+ },
+ {
+   "IP Section": "366",
+   "Offense": "Procuration of minor girl",
+   "Punishment": "10 Years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Court of Session",
+   "Punishment Category": "Imprisonment (3�10 years)"
+ },
+ {
+   "IP Section": "366",
+   "Offense": "Importation of girl from foreign country",
+   "Punishment": "10 Years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Court of Session",
+   "Punishment Category": "Imprisonment (3�10 years)"
+ },
+ {
+   "IP Section": "363",
+   "Offense": "Kidnapping or abducting in order to subject a person to grievous hurt, slavery, etc.",
+   "Punishment": "10 Years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Court of Session",
+   "Punishment Category": "Imprisonment (3�10 years)"
+ },
+ {
+   "IP Section": "368",
+   "Offense": "Concealing or keeping in confinement a kidnapped person",
+   "Punishment": "As for Kidnapping or Abduction",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "As for Kidnapping or Abduction",
+   "Punishment Category": "Other Punishments"
+ },
+ {
+   "IP Section": "363",
+   "Offense": "Kidnapping or abducting a child with intent to take property from the person of such child",
+   "Punishment": "7 Years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Imprisonment (3�10 years)"
+ },
+ {
+   "IP Section": "370",
+   "Offense": "Trafficking of person",
+   "Punishment": "7 to 10 years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "Non-bailable",
+   "Court": "Court of Session",
+   "Punishment Category": "Imprisonment (3�10 years)"
+ },
+ {
+   "IP Section": "370",
+   "Offense": "Exploitation of a trafficked child",
+   "Punishment": "5 to 7 years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "Non-bailable",
+   "Court": "Court of Session",
+   "Punishment Category": "Imprisonment (3�10 years)"
+ },
+ {
+   "IP Section": "371",
+   "Offense": "Habitual dealing in slaves",
+   "Punishment": "Life or 10 Years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Court of Session",
+   "Punishment Category": "Life Imprisonment"
+ },
+ {
+   "IP Section": "372",
+   "Offense": "Selling or letting to hire a minor for purposes of prostitution, etc.",
+   "Punishment": "10 Years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Court of Session",
+   "Punishment Category": "Imprisonment (3�10 years)"
+ },
+ {
+   "IP Section": "373",
+   "Offense": "Buying or obtaining possession of a minor for the same purposes",
+   "Punishment": "10 Years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Court of Session",
+   "Punishment Category": "Imprisonment (3�10 years)"
+ },
+ {
+   "IP Section": "374",
+   "Offense": "Unlawful compulsory labour",
+   "Punishment": "1 Year or Fine or Both",
+   "Cognizable": "Yes",
+   "Bailable": "Yes",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "375",
+   "Offense": "Unknown",
+   "Punishment": "Unknown",
+   "Cognizable": "Unknown",
+   "Bailable": "Unknown",
+   "Court": "Unknown",
+   "Punishment Category": "Other Punishments"
+ },
+ {
+   "IP Section": "376",
+   "Offense": "Rape",
+   "Punishment": "Rigorous Imprisonment for 10 years to Imprisonment for Life + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "Non-bailable",
+   "Court": "Court of Session",
+   "Punishment Category": "Life Imprisonment"
+ },
+ {
+   "IP Section": "376",
+   "Offense": "Person committing an offence of rape and inflicting injury which causes death or causes the woman to be in a persistent vegetative state",
+   "Punishment": "Rigorous Imprisonment for 20 years to Imprisonment for Natural-Life or Death",
+   "Cognizable": "Yes",
+   "Bailable": "Non-bailable",
+   "Court": "Court of Session",
+   "Punishment Category": "Life Imprisonment"
+ },
+ {
+   "IP Section": "376",
+   "Offense": "Unknown",
+   "Punishment": "Unknown",
+   "Cognizable": "Unknown",
+   "Bailable": "Unknown",
+   "Court": "Unknown",
+   "Punishment Category": "Other Punishments"
+ },
+ {
+   "IP Section": "376",
+   "Offense": "Sexual intercourse by husband upon his wife during separation",
+   "Punishment": "2 to 7 years + Fine",
+   "Cognizable": "Cognizable (on complaint of victim)",
+   "Bailable": "Yes",
+   "Court": "Court of Session",
+   "Punishment Category": "Imprisonment (3�10 years)"
+ },
+ {
+   "IP Section": "376",
+   "Offense": "Sexual intercourse by a person in authority",
+   "Punishment": "Rigorous Imprisonment for 5 to 10 years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "Non-bailable",
+   "Court": "Court of Session",
+   "Punishment Category": "Imprisonment (3�10 years)"
+ },
+ {
+   "IP Section": "376",
+   "Offense": "Gang rape",
+   "Punishment": "Rigorous Imprisonment for 20 years to Imprisonment for Natural-Life + Fine paid to the victim",
+   "Cognizable": "Yes",
+   "Bailable": "Non-bailable",
+   "Court": "Court of Session",
+   "Punishment Category": "Life Imprisonment"
+ },
+ {
+   "IP Section": "376",
+   "Offense": "Unknown",
+   "Punishment": "Unknown",
+   "Cognizable": "Unknown",
+   "Bailable": "Unknown",
+   "Court": "Unknown",
+   "Punishment Category": "Other Punishments"
+ },
+ {
+   "IP Section": "376",
+   "Offense": "Unknown",
+   "Punishment": "Unknown",
+   "Cognizable": "Unknown",
+   "Bailable": "Unknown",
+   "Court": "Unknown",
+   "Punishment Category": "Other Punishments"
+ },
+ {
+   "IP Section": "376",
+   "Offense": "Repeat offenders",
+   "Punishment": "Imprisonment for Natural-Life or Death",
+   "Cognizable": "Yes",
+   "Bailable": "Non-bailable",
+   "Court": "Court of Session",
+   "Punishment Category": "Life Imprisonment"
+ },
+ {
+   "IP Section": "377",
+   "Offense": "Unnatural offences",
+   "Punishment": "Imprisonment for Life or 10 Years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Life Imprisonment"
+ },
+ {
+   "IP Section": "378",
+   "Offense": "Unknown",
+   "Punishment": "Unknown",
+   "Cognizable": "Unknown",
+   "Bailable": "Unknown",
+   "Court": "Unknown",
+   "Punishment Category": "Other Punishments"
+ },
+ {
+   "IP Section": "379",
+   "Offense": "Theft",
+   "Punishment": "3 Years or Fine or Both",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "379",
+   "Offense": "Theft in a building, tent or vessel",
+   "Punishment": "7 Years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Imprisonment (3�10 years)"
+ },
+ {
+   "IP Section": "379",
+   "Offense": "Theft by clerk or servant of property in possession of master or employer",
+   "Punishment": "7 Years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Imprisonment (3�10 years)"
+ },
+ {
+   "IP Section": "379",
+   "Offense": "Theft, after preparation having been made for causing death, or hurt, or restraint or fear of death, or of hurt or of restraint, in order to the committing of such theft, or to retiring after committing it, or to retaining property taken by it",
+   "Punishment": "Rigorous Imprisonment for 10 Years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Imprisonment (3�10 years)"
+ },
+ {
+   "IP Section": "383",
+   "Offense": "Unknown",
+   "Punishment": "Unknown",
+   "Cognizable": "Unknown",
+   "Bailable": "Unknown",
+   "Court": "Unknown",
+   "Punishment Category": "Other Punishments"
+ },
+ {
+   "IP Section": "383",
+   "Offense": "Extortion",
+   "Punishment": "3 Years or Fine or Both",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "383",
+   "Offense": "Putting or attempting to put in fear of injury, in order to commit extortion",
+   "Punishment": "2 Years or Fine or Both",
+   "Cognizable": "Yes",
+   "Bailable": "Yes",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "383",
+   "Offense": "extortion by putting a person in fear of death or grievous hurt",
+   "Punishment": "10 Years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Imprisonment (3�10 years)"
+ },
+ {
+   "IP Section": "383",
+   "Offense": "Putting or attempting to put a person in fear of death or grievous hurt in order to commit extortion",
+   "Punishment": "7 Years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Imprisonment (3�10 years)"
+ },
+ {
+   "IP Section": "383",
+   "Offense": "Extortion by threat of accusation of an offence punishable with death, imprisonment for life, or imprisonment for 10 Years.",
+   "Punishment": "10 Years + Fine.",
+   "Cognizable": "Yes",
+   "Bailable": "Yes",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Imprisonment (3�10 years)"
+ },
+ {
+   "IP Section": "383",
+   "Offense": "Putting a person in fear of accusation of an offence punishable with death, imprisonment for life, or imprisonment for 10 Years in order to commit extortion.",
+   "Punishment": "10 Years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "Yes",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Imprisonment (3�10 years)"
+ },
+ {
+   "IP Section": "390",
+   "Offense": "Unknown",
+   "Punishment": "Unknown",
+   "Cognizable": "Unknown",
+   "Bailable": "Unknown",
+   "Court": "Unknown",
+   "Punishment Category": "Other Punishments"
+ },
+ {
+   "IP Section": "391",
+   "Offense": "Unknown",
+   "Punishment": "Unknown",
+   "Cognizable": "Unknown",
+   "Bailable": "Unknown",
+   "Court": "Unknown",
+   "Punishment Category": "Other Punishments"
+ },
+ {
+   "IP Section": "392",
+   "Offense": "Robbery",
+   "Punishment": "Rigorous Imprisonment for 10 Years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Imprisonment (3�10 years)"
+ },
+ {
+   "IP Section": "393",
+   "Offense": "Attempt to commit robbery",
+   "Punishment": "Rigorous Imprisonment for 7 Years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Imprisonment (3�10 years)"
+ },
+ {
+   "IP Section": "394",
+   "Offense": "Person voluntarily causing hurt in committing or attempting to commit robbery, or any other person jointly concerned in such robbery",
+   "Punishment": "Imprisonment for Life or Rigorous Imprisonment for 10 Years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Life Imprisonment"
+ },
+ {
+   "IP Section": "395",
+   "Offense": "Dacoity",
+   "Punishment": "Imprisonment for Life or Rigorous Imprisonment for 10 Years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Court of Session",
+   "Punishment Category": "Life Imprisonment"
+ },
+ {
+   "IP Section": "302",
+   "Offense": "Murder in Dacoity",
+   "Punishment": "Death, Imprisonment for Life, or Rigorous Imprisonment for 10 Years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Court of Session",
+   "Punishment Category": "Life Imprisonment"
+ },
+ {
+   "IP Section": "397",
+   "Offense": "Robber or Dacoity, with attempt to cause death or grievous hurt",
+   "Punishment": "Rigorous Imprisonment for not less than 7 Years",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Court of Session",
+   "Punishment Category": "Imprisonment (3�10 years)"
+ },
+ {
+   "IP Section": "398",
+   "Offense": "Attempt to commit robbery or Dacoity when armed with deadly weapons",
+   "Punishment": "Rigorous Imprisonment for not less than 7 Years",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Court of Session",
+   "Punishment Category": "Imprisonment (3�10 years)"
+ },
+ {
+   "IP Section": "399",
+   "Offense": "Making preparation to commit Dacoity",
+   "Punishment": "Rigorous Imprisonment for 10 Years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Court of Session",
+   "Punishment Category": "Imprisonment (3�10 years)"
+ },
+ {
+   "IP Section": "400",
+   "Offense": "Belonging to a gang of persons associated for the purpose of habitually committing Dacoity",
+   "Punishment": "Imprisonment for Life or Rigorous Imprisonment for 10 Years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Court of Session",
+   "Punishment Category": "Life Imprisonment"
+ },
+ {
+   "IP Section": "379",
+   "Offense": "Belonging to a wandering gang of persons associated for the purpose of habitually committing thefts",
+   "Punishment": "Rigorous Imprisonment for 7 Years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Imprisonment (3�10 years)"
+ },
+ {
+   "IP Section": "402",
+   "Offense": "Being one of five or more persons assembled for the purpose of committing Dacoity",
+   "Punishment": "Rigorous Imprisonment for 7 Years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Court of Session",
+   "Punishment Category": "Imprisonment (3�10 years)"
+ },
+ {
+   "IP Section": "403",
+   "Offense": "Dishonest misappropriation of movable property, or converting it to one’s own use",
+   "Punishment": "2 Years or Fine or Both",
+   "Cognizable": "No",
+   "Bailable": "Yes",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "404",
+   "Offense": "Dishonest misappropriation of property, knowing that it was in possession of a deceased person at his death, and that it has not since been in the possession of any person legally entitled to it",
+   "Punishment": "3 Years + Fine",
+   "Cognizable": "No",
+   "Bailable": "Yes",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "405",
+   "Offense": "Unknown",
+   "Punishment": "Unknown",
+   "Cognizable": "Unknown",
+   "Bailable": "Unknown",
+   "Court": "Unknown",
+   "Punishment Category": "Other Punishments"
+ },
+ {
+   "IP Section": "406",
+   "Offense": "Criminal breach of trust",
+   "Punishment": "3 Years or Fine or Both",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "407",
+   "Offense": "Criminal breach of trust by a carrier, wharfinger, etc.",
+   "Punishment": "7 Years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Imprisonment (3�10 years)"
+ },
+ {
+   "IP Section": "408",
+   "Offense": "Criminal breach of trust by a clerk or servant",
+   "Punishment": "7 Years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Imprisonment (3�10 years)"
+ },
+ {
+   "IP Section": "409",
+   "Offense": "Criminal breach of trust by public servant or by banker, merchant or agent, etc.",
+   "Punishment": "Imprisonment for Life or 10 Years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Life Imprisonment"
+ },
+ {
+   "IP Section": "410",
+   "Offense": "Unknown",
+   "Punishment": "Unknown",
+   "Cognizable": "Unknown",
+   "Bailable": "Unknown",
+   "Court": "Unknown",
+   "Punishment Category": "Other Punishments"
+ },
+ {
+   "IP Section": "411",
+   "Offense": "Dishonestly receiving stolen property knowing it to be stolen",
+   "Punishment": "3 Years or Fine or Both",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "412",
+   "Offense": "Dishonestly receiving stolen property, knowing that it was obtained by Dacoity",
+   "Punishment": "Imprisonment for Life or Rigorous Imprisonment for 10 Years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Court of Session",
+   "Punishment Category": "Life Imprisonment"
+ },
+ {
+   "IP Section": "413",
+   "Offense": "Habitually dealing in stolen property",
+   "Punishment": "Imprisonment for Life or 10 Years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Court of Session",
+   "Punishment Category": "Life Imprisonment"
+ },
+ {
+   "IP Section": "414",
+   "Offense": "Assisting in concealment or disposal of stolen property, knowing it to be stolen",
+   "Punishment": "3 Years, or Fine, or Both",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "415",
+   "Offense": "Unknown",
+   "Punishment": "Unknown",
+   "Cognizable": "Unknown",
+   "Bailable": "Unknown",
+   "Court": "Unknown",
+   "Punishment Category": "Other Punishments"
+ },
+ {
+   "IP Section": "416",
+   "Offense": "Unknown",
+   "Punishment": "Unknown",
+   "Cognizable": "Unknown",
+   "Bailable": "Unknown",
+   "Court": "Unknown",
+   "Punishment Category": "Other Punishments"
+ },
+ {
+   "IP Section": "420",
+   "Offense": "Cheating",
+   "Punishment": "1 Year or Fine or Both",
+   "Cognizable": "No",
+   "Bailable": "Yes",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "420",
+   "Offense": "Cheating a person whose interest the offender was bound, either by law or by legal contract, to protect",
+   "Punishment": "3 Years or Fine or Both",
+   "Cognizable": "No",
+   "Bailable": "Yes",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "420",
+   "Offense": "Cheating by personation",
+   "Punishment": "3 Years or Fine or Both",
+   "Cognizable": "Yes",
+   "Bailable": "Yes",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "420",
+   "Offense": "Cheating and there by dishonestly inducing delivery of property, or the making, alteration or destruction of a valuable security",
+   "Punishment": "7 Years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Imprisonment (3�10 years)"
+ },
+ {
+   "IP Section": "421",
+   "Offense": "Fraudulent removal or concealment of property etc., to prevent distribution among creditors",
+   "Punishment": "2 Years or Fine or Both",
+   "Cognizable": "No",
+   "Bailable": "Yes",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "422",
+   "Offense": "Fraudulently preventing from being made available for his creditors a debt or demand due to the offender",
+   "Punishment": "2 Years or Fine or Both",
+   "Cognizable": "No",
+   "Bailable": "Yes",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "423",
+   "Offense": "Fraudulent execution of deed of transfer containing a false statement of consideration",
+   "Punishment": "2 Years or Fine or Both",
+   "Cognizable": "No",
+   "Bailable": "Yes",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "424",
+   "Offense": "Fraudulent removal or concealment of property of himself or any other person or assisting in the doing thereof, or dishonestly releasing any demand or claim to which he is entitled",
+   "Punishment": "2 Years or Fine or Both",
+   "Cognizable": "No",
+   "Bailable": "Yes",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "425",
+   "Offense": "Unknown",
+   "Punishment": "Unknown",
+   "Cognizable": "Unknown",
+   "Bailable": "Unknown",
+   "Court": "Unknown",
+   "Punishment Category": "Other Punishments"
+ },
+ {
+   "IP Section": "426",
+   "Offense": "Mischief",
+   "Punishment": "3 Months or Fine or Both",
+   "Cognizable": "No",
+   "Bailable": "Yes",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Fine Only"
+ },
+ {
+   "IP Section": "427",
+   "Offense": "Mischief, and thereby causing damage to the amount of 50 rupees or upwards",
+   "Punishment": "2 Years or Fine or Both",
+   "Cognizable": "No",
+   "Bailable": "Yes",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "428",
+   "Offense": "Mischief by killing, poisoning, maiming or rendering useless any animal of the value of 10 rupees or upwards",
+   "Punishment": "2 Years or Fine or Both",
+   "Cognizable": "Yes",
+   "Bailable": "Yes",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "429",
+   "Offense": "Mischief by killing poisoning maiming or rendering useless any elephant, camel, horse, etc., whatever may be its value or any other animal of the value of 50 rupees or upwards",
+   "Punishment": "5 Years or Fine or Both",
+   "Cognizable": "Yes",
+   "Bailable": "Yes",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Imprisonment (3�10 years)"
+ },
+ {
+   "IP Section": "430",
+   "Offense": "Mischief by causing diminution of supply of water for agricultural purposes, etc.",
+   "Punishment": "5 Years or Fine or Both",
+   "Cognizable": "Yes",
+   "Bailable": "Yes",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Imprisonment (3�10 years)"
+ },
+ {
+   "IP Section": "431",
+   "Offense": "Mischief by injury to public road, bridge, navigable river, or navigable channel and rendering it impassable or less safe for travelling or conveying property",
+   "Punishment": "5 Years or Fine or Both",
+   "Cognizable": "Yes",
+   "Bailable": "Yes",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Imprisonment (3�10 years)"
+ },
+ {
+   "IP Section": "432",
+   "Offense": "Mischief by causing inundation or obstruction to public drainage attended with damage",
+   "Punishment": "5 Years or Fine or Both",
+   "Cognizable": "Yes",
+   "Bailable": "Yes",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Imprisonment (3�10 years)"
+ },
+ {
+   "IP Section": "433",
+   "Offense": "Mischief by destroying or moving or rendering less useful a lighthouse or sea-mark, or by exhibiting false lights",
+   "Punishment": "7 Years or Fine or Both",
+   "Cognizable": "Yes",
+   "Bailable": "Yes",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Imprisonment (3�10 years)"
+ },
+ {
+   "IP Section": "434",
+   "Offense": "Mischief by destroying or moving, etc., a landmark fixed by public authority",
+   "Punishment": "1 Year or Fine or Both",
+   "Cognizable": "No",
+   "Bailable": "Yes",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "435",
+   "Offense": "Mischief by fire or explosive substance with intent to cause damage to an amount of 100 rupees or upwards, or, in case of agricultural produce, 10 rupees or upwards",
+   "Punishment": "7 Years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "Yes",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Imprisonment (3�10 years)"
+ },
+ {
+   "IP Section": "436",
+   "Offense": "Mischief by fire or explosive substance with intent to destroy house etc.",
+   "Punishment": "Imprisonment for Life, or 10 Years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Court of Session",
+   "Punishment Category": "Life Imprisonment"
+ },
+ {
+   "IP Section": "437",
+   "Offense": "Mischief with intent to destroy or make unsafe A decked vessel or a vessel of 20 tones burden",
+   "Punishment": "10 Years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Court of Session",
+   "Punishment Category": "Imprisonment (3�10 years)"
+ },
+ {
+   "IP Section": "438",
+   "Offense": "The mischief described in the last section when committed by fire or any explosive substance",
+   "Punishment": "Imprisonment for Life or 10 Years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Court of Session",
+   "Punishment Category": "Life Imprisonment"
+ },
+ {
+   "IP Section": "379",
+   "Offense": "Running vessel ashore with intent to commit theft, etc.",
+   "Punishment": "10 Years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Court of Session",
+   "Punishment Category": "Imprisonment (3�10 years)"
+ },
+ {
+   "IP Section": "440",
+   "Offense": "Mischief committed after preparation made for causing death, or hurt, etc.",
+   "Punishment": "5 Years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "Yes",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Imprisonment (3�10 years)"
+ },
+ {
+   "IP Section": "441",
+   "Offense": "Unknown",
+   "Punishment": "Unknown",
+   "Cognizable": "Unknown",
+   "Bailable": "Unknown",
+   "Court": "Unknown",
+   "Punishment Category": "Other Punishments"
+ },
+ {
+   "IP Section": "442",
+   "Offense": "Unknown",
+   "Punishment": "Unknown",
+   "Cognizable": "Unknown",
+   "Bailable": "Unknown",
+   "Court": "Unknown",
+   "Punishment Category": "Other Punishments"
+ },
+ {
+   "IP Section": "443",
+   "Offense": "Unknown",
+   "Punishment": "Unknown",
+   "Cognizable": "Unknown",
+   "Bailable": "Unknown",
+   "Court": "Unknown",
+   "Punishment Category": "Other Punishments"
+ },
+ {
+   "IP Section": "444",
+   "Offense": "Unknown",
+   "Punishment": "Unknown",
+   "Cognizable": "Unknown",
+   "Bailable": "Unknown",
+   "Court": "Unknown",
+   "Punishment Category": "Other Punishments"
+ },
+ {
+   "IP Section": "445",
+   "Offense": "Unknown",
+   "Punishment": "Unknown",
+   "Cognizable": "Unknown",
+   "Bailable": "Unknown",
+   "Court": "Unknown",
+   "Punishment Category": "Other Punishments"
+ },
+ {
+   "IP Section": "446",
+   "Offense": "Unknown",
+   "Punishment": "Unknown",
+   "Cognizable": "Unknown",
+   "Bailable": "Unknown",
+   "Court": "Unknown",
+   "Punishment Category": "Other Punishments"
+ },
+ {
+   "IP Section": "441",
+   "Offense": "Criminal trespass",
+   "Punishment": "3 Months or Fine or Both",
+   "Cognizable": "Yes",
+   "Bailable": "Yes",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Fine Only"
+ },
+ {
+   "IP Section": "448",
+   "Offense": "House-trespass",
+   "Punishment": "1 Year or Fine or Both",
+   "Cognizable": "Yes",
+   "Bailable": "Yes",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "449",
+   "Offense": "House-trespass in order to the commission of an offence punishable with death",
+   "Punishment": "Imprisonment for Life or Rigorous Imprisonment for 10 Years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Court of Session",
+   "Punishment Category": "Life Imprisonment"
+ },
+ {
+   "IP Section": "450",
+   "Offense": "House-trespass in order to the commission of an Offence punishable with imprisonment for life",
+   "Punishment": "10 Years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Court of Session",
+   "Punishment Category": "Imprisonment (3�10 years)"
+ },
+ {
+   "IP Section": "451",
+   "Offense": "House-trespass in order to the commission of an Offence punishable with imprisonment",
+   "Punishment": "2 Years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "Yes",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "351",
+   "Offense": "House-trespass, having made preparation for causing hurt, assault, etc.",
+   "Punishment": "7 Years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Imprisonment (3�10 years)"
+ },
+ {
+   "IP Section": "453",
+   "Offense": "Lurking house trespass or house-breaking",
+   "Punishment": "2 Years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "454",
+   "Offense": "Lurking house-trespass or house-breaking in order to the commission of an offence punishable with imprisonment",
+   "Punishment": "3 Years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "351",
+   "Offense": "Lurking house-trespass or house-breaking after preparation made for causing hurt, assault, etc.",
+   "Punishment": "10 Years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Imprisonment (3�10 years)"
+ },
+ {
+   "IP Section": "456",
+   "Offense": "Lurking house-trespass or house-breaking by night",
+   "Punishment": "3 Years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "457",
+   "Offense": "Lurking house-trespass or house-breaking by night in order to the commission of an offence punishable with imprisonment",
+   "Punishment": "5 Years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Imprisonment (3�10 years)"
+ },
+ {
+   "IP Section": "458",
+   "Offense": "Lurking house-trespass or house-breaking by night, after preparation made for causing hurt, etc.",
+   "Punishment": "14 Years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Life Imprisonment"
+ },
+ {
+   "IP Section": "459",
+   "Offense": "Grievous hurt caused whilst committing lurking house-trespass or house-breaking",
+   "Punishment": "Imprisonment for Life or 10 Years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Court of Session",
+   "Punishment Category": "Life Imprisonment"
+ },
+ {
+   "IP Section": "460",
+   "Offense": "Death or grievous hurt caused by one of several persons jointly concerned in house-breaking by Night, etc.",
+   "Punishment": "Imprisonment for Life or 10 Years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Court of Session",
+   "Punishment Category": "Life Imprisonment"
+ },
+ {
+   "IP Section": "461",
+   "Offense": "Dishonestly breaking Open or unfastening any closed receptacle containing or supposed to contain property",
+   "Punishment": "2 Years or Fine or Both",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "462",
+   "Offense": "Being entrusted with any closed receptacle containing or supposed to contain any property, and fraudulently opening the same",
+   "Punishment": "3 Years or Fine or Both",
+   "Cognizable": "Yes",
+   "Bailable": "Yes",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "463",
+   "Offense": "Unknown",
+   "Punishment": "Unknown",
+   "Cognizable": "Unknown",
+   "Bailable": "Unknown",
+   "Court": "Unknown",
+   "Punishment Category": "Other Punishments"
+ },
+ {
+   "IP Section": "464",
+   "Offense": "Unknown",
+   "Punishment": "Unknown",
+   "Cognizable": "Unknown",
+   "Bailable": "Unknown",
+   "Court": "Unknown",
+   "Punishment Category": "Other Punishments"
+ },
+ {
+   "IP Section": "465",
+   "Offense": "Forgery",
+   "Punishment": "2 Years or Fine or Both",
+   "Cognizable": "No",
+   "Bailable": "Yes",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "466",
+   "Offense": "Forgery of a record of a court of Justice or of a Registrar of Births, etc., kept by a public servant",
+   "Punishment": "7 Years + Fine",
+   "Cognizable": "No",
+   "Bailable": "No",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Imprisonment (3�10 years)"
+ },
+ {
+   "IP Section": "467",
+   "Offense": "Forgery of a valuable security, will or authority to make or transfer any valuable security, or to receive any money, etc.",
+   "Punishment": "Imprisonment for Life or 10 Years + Fine",
+   "Cognizable": "No",
+   "Bailable": "No",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Life Imprisonment"
+ },
+ {
+   "IP Section": "420",
+   "Offense": "Forgery for the purpose of cheating",
+   "Punishment": "7 Years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Imprisonment (3�10 years)"
+ },
+ {
+   "IP Section": "469",
+   "Offense": "Forgery for the purpose of harming the reputation of any person or knowing that it is likely to be used for that purpose",
+   "Punishment": "3 Years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "Yes",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "470",
+   "Offense": "Unknown",
+   "Punishment": "Unknown",
+   "Cognizable": "Unknown",
+   "Bailable": "Unknown",
+   "Court": "Unknown",
+   "Punishment Category": "Other Punishments"
+ },
+ {
+   "IP Section": "471",
+   "Offense": "Using as genuine a forged document which is known to be forged",
+   "Punishment": "Same as for Forgery of such document",
+   "Cognizable": "Yes",
+   "Bailable": "Yes",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Other Punishments"
+ },
+ {
+   "IP Section": "472",
+   "Offense": "Making or counterfeiting a seal, plate, etc., with intent to commit a forgery punishable under section 467 of the Indian Penal Code, or possessing with like intent any such seal, plate, etc. knowing the same to be counterfeit",
+   "Punishment": "Imprisonment for Life or 7 Years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "Yes",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Life Imprisonment"
+ },
+ {
+   "IP Section": "473",
+   "Offense": "Making or counterfeiting a seal, plate, etc., with intent to commit a forgery punishable otherwise than under section 467 of the Indian Penal Code, or possessing with like intent any such seal plate, etc., knowing the same to be counterfeit",
+   "Punishment": "7 Years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "Yes",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Imprisonment (3�10 years)"
+ },
+ {
+   "IP Section": "474",
+   "Offense": "Having possession of a document, knowing it to be forged, with intent to use it as genuine; If the document is one of the description mentioned in section 466 of the Indian Penal Code",
+   "Punishment": "7 Years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "Yes",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Imprisonment (3�10 years)"
+ },
+ {
+   "IP Section": "475",
+   "Offense": "Counterfeiting a device or mark used for authenticating documents described in section 467 of the Indian Penal Code, or possessing counterfeit marked material",
+   "Punishment": "Imprisonment for Life or 7 Years + Fine",
+   "Cognizable": "No",
+   "Bailable": "Yes",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Life Imprisonment"
+ },
+ {
+   "IP Section": "476",
+   "Offense": "Counterfeiting a device or mark used for authenticating documents other than those described in section 467 of the Indian Penal Code, or possessing counterfeit marked material",
+   "Punishment": "7 Years + Fine",
+   "Cognizable": "No",
+   "Bailable": "No",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Imprisonment (3�10 years)"
+ },
+ {
+   "IP Section": "477",
+   "Offense": "Fraudulently destroying or defacing, or attempting to destroy or deface, or secreting, a will, etc.",
+   "Punishment": "Imprisonment for Life or 7 Years + Fine",
+   "Cognizable": "No",
+   "Bailable": "No",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Life Imprisonment"
+ },
+ {
+   "IP Section": "477",
+   "Offense": "Falsification of accounts",
+   "Punishment": "7 Years or Fine or Both",
+   "Cognizable": "No",
+   "Bailable": "Yes",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Imprisonment (3�10 years)"
+ },
+ {
+   "IP Section": "478",
+   "Offense": "Unknown",
+   "Punishment": "Unknown",
+   "Cognizable": "Unknown",
+   "Bailable": "Unknown",
+   "Court": "Unknown",
+   "Punishment Category": "Other Punishments"
+ },
+ {
+   "IP Section": "479",
+   "Offense": "Unknown",
+   "Punishment": "Unknown",
+   "Cognizable": "Unknown",
+   "Bailable": "Unknown",
+   "Court": "Unknown",
+   "Punishment Category": "Other Punishments"
+ },
+ {
+   "IP Section": "480",
+   "Offense": "Unknown",
+   "Punishment": "Unknown",
+   "Cognizable": "Unknown",
+   "Bailable": "Unknown",
+   "Court": "Unknown",
+   "Punishment Category": "Other Punishments"
+ },
+ {
+   "IP Section": "481",
+   "Offense": "Unknown",
+   "Punishment": "Unknown",
+   "Cognizable": "Unknown",
+   "Bailable": "Unknown",
+   "Court": "Unknown",
+   "Punishment Category": "Other Punishments"
+ },
+ {
+   "IP Section": "482",
+   "Offense": "Using a false property mark with intent to deceive or injure any person",
+   "Punishment": "1 Year or Fine or Both",
+   "Cognizable": "No",
+   "Bailable": "Yes",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "483",
+   "Offense": "Counterfeiting a property mark used by another, with intent to cause damage or injury",
+   "Punishment": "2 Years or Fine or Both",
+   "Cognizable": "No",
+   "Bailable": "Yes",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "484",
+   "Offense": "Counterfeiting a property mark used by a public servant, or any mark used by him to denote the manufacture, quality, etc., of any property",
+   "Punishment": "3 Years + Fine",
+   "Cognizable": "No",
+   "Bailable": "Yes",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "485",
+   "Offense": "Fraudulently making or having possession of any die, plate or other instrument for counterfeiting any public or private property mark",
+   "Punishment": "3 Years or Fine or Both",
+   "Cognizable": "No",
+   "Bailable": "Yes",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "486",
+   "Offense": "Knowingly selling goods marked with a counterfeit property mark",
+   "Punishment": "1 Year or Fine or Both",
+   "Cognizable": "No",
+   "Bailable": "Yes",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "487",
+   "Offense": "Fraudulently marking a false mark upon any package or receptacle containing goods, with intent to cause it to be believed that it contains goods which it does not contain, etc.",
+   "Punishment": "3 Years or Fine or Both",
+   "Cognizable": "No",
+   "Bailable": "Yes",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "488",
+   "Offense": "Making use of any such false mark",
+   "Punishment": "3 Years or Fine or Both",
+   "Cognizable": "No",
+   "Bailable": "Yes",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "489",
+   "Offense": "Removing destroying or defacing property mark with intent to cause injury",
+   "Punishment": "1 Year or Fine or Both",
+   "Cognizable": "No",
+   "Bailable": "Yes",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "489",
+   "Offense": "Counterfeiting currency-notes or bank-notes",
+   "Punishment": "Imprisonment for Life or 10 Years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Court of Session",
+   "Punishment Category": "Life Imprisonment"
+ },
+ {
+   "IP Section": "489",
+   "Offense": "Using as genuine forged or counterfeit currency-notes or bank-notes",
+   "Punishment": "Imprisonment for Life or 10 Years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Court of Session",
+   "Punishment Category": "Life Imprisonment"
+ },
+ {
+   "IP Section": "489",
+   "Offense": "Possession of forged or counterfeit currency-notes or bank-notes",
+   "Punishment": "7 Years or Fine or Both",
+   "Cognizable": "Yes",
+   "Bailable": "Yes",
+   "Court": "Court of Session",
+   "Punishment Category": "Imprisonment (3�10 years)"
+ },
+ {
+   "IP Section": "489",
+   "Offense": "Making or possessing machinery, instrument or material for forging or counterfeiting currency-notes or bank-notes",
+   "Punishment": "Imprisonment for Life or 10 Years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "No",
+   "Court": "Court of Session",
+   "Punishment Category": "Life Imprisonment"
+ },
+ {
+   "IP Section": "489",
+   "Offense": "Making or using documents resembling currency-notes or bank-notes",
+   "Punishment": "Fine",
+   "Cognizable": "No",
+   "Bailable": "Yes",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Fine Only"
+ },
+ {
+   "IP Section": "490",
+   "Offense": "On refusal to disclose the name and address of the printer",
+   "Punishment": "Fine",
+   "Cognizable": "No",
+   "Bailable": "Yes",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Fine Only"
+ },
+ {
+   "IP Section": "491",
+   "Offense": "Being bound to attend on or supply the wants of a person who is helpless from youth, unsoundness of mind or disease, and voluntarily omitting to do so",
+   "Punishment": "3 Months or Fine or Both",
+   "Cognizable": "No",
+   "Bailable": "Yes",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Fine Only"
+ },
+ {
+   "IP Section": "492",
+   "Offense": "Unknown",
+   "Punishment": "Unknown",
+   "Cognizable": "Unknown",
+   "Bailable": "Unknown",
+   "Court": "Unknown",
+   "Punishment Category": "Other Punishments"
+ },
+ {
+   "IP Section": "493",
+   "Offense": "A man by deceit causing a woman not lawfully married to him to believe that she is lawfully married to him and to cohabit with him in that belief",
+   "Punishment": "10 Years + Fine",
+   "Cognizable": "No",
+   "Bailable": "No",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Imprisonment (3�10 years)"
+ },
+ {
+   "IP Section": "494",
+   "Offense": "Marrying again during the life-time of a husband or wife",
+   "Punishment": "7 Years + Fine",
+   "Cognizable": "No",
+   "Bailable": "Yes",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Imprisonment (3�10 years)"
+ },
+ {
+   "IP Section": "495",
+   "Offense": "Same offence with concealment of the former marriage from the person with whom subsequent marriage is contracted",
+   "Punishment": "10 Years + Fine",
+   "Cognizable": "No",
+   "Bailable": "Yes",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Imprisonment (3�10 years)"
+ },
+ {
+   "IP Section": "496",
+   "Offense": "A person with fraudulent intention going through the ceremony of being married knowing that he is not thereby lawfully married",
+   "Punishment": "7 Years + Fine",
+   "Cognizable": "No",
+   "Bailable": "Yes",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Imprisonment (3�10 years)"
+ },
+ {
+   "IP Section": "497",
+   "Offense": "Adultery",
+   "Punishment": "5 Years or Fine or Both",
+   "Cognizable": "No",
+   "Bailable": "Yes",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Imprisonment (3�10 years)"
+ },
+ {
+   "IP Section": "498",
+   "Offense": "Enticing or taking away or detaining with a criminal intent a married woman",
+   "Punishment": "2 Years and Fine",
+   "Cognizable": "No",
+   "Bailable": "Yes",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "498",
+   "Offense": "Punishment for subjecting a married woman to Cruelty",
+   "Punishment": "3 Years + Fine",
+   "Cognizable": "No",
+   "Bailable": "No",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "499",
+   "Offense": "Unknown",
+   "Punishment": "Unknown",
+   "Cognizable": "Unknown",
+   "Bailable": "Unknown",
+   "Court": "Unknown",
+   "Punishment Category": "Other Punishments"
+ },
+ {
+   "IP Section": "499",
+   "Offense": "Defamation against the President or the Vice-president or the Governor of a State or Administrator of a Union Territory or a Minister in respect of his conduct in the discharge of his public functions when instituted upon a complaint made by the Public Prosecutor",
+   "Punishment": "Simple Imprisonment for 2 Years or Fine or Both",
+   "Cognizable": "No",
+   "Bailable": "Yes",
+   "Court": "Court of Session",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "501",
+   "Offense": "Printing or engraving matter knowing it to be defamatory against the President or the Vice-President or the Governor of a State or Administrator of a Union territory or a Minister in respect of his conduct in the discharge of his public functions when instituted upon a complaint made by the Public Prosecutor",
+   "Punishment": "Simple Imprisonment for 2 Years or Fine or Both",
+   "Cognizable": "No",
+   "Bailable": "Yes",
+   "Court": "Court of Session",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "502",
+   "Offense": "Sale of printed or engraved substance containing defamatory matter, knowing it to contain such matter against the President or the Vice-President or the Governor of a State or Administrator of a Union territory or a Minister in respect of his conduct in the discharge of his public functions when instituted upon a complaint made by the Public Prosecutor",
+   "Punishment": "Simple Imprisonment for 2 Years or Fine or Both",
+   "Cognizable": "No",
+   "Bailable": "Yes",
+   "Court": "Court of Session",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "503",
+   "Offense": "Unknown",
+   "Punishment": "Unknown",
+   "Cognizable": "Unknown",
+   "Bailable": "Unknown",
+   "Court": "Unknown",
+   "Punishment Category": "Other Punishments"
+ },
+ {
+   "IP Section": "504",
+   "Offense": "Insult intended to provoke breach of the peace",
+   "Punishment": "2 Years or Fine or Both",
+   "Cognizable": "No",
+   "Bailable": "Yes",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "505",
+   "Offense": "False statement, rumour, etc., circulated with intent to cause mutiny or offence against the public peace",
+   "Punishment": "3 Years or Fine or Both",
+   "Cognizable": "No",
+   "Bailable": "No",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "506",
+   "Offense": "Criminal intimidation",
+   "Punishment": "2 Years or Fine or Both",
+   "Cognizable": "No",
+   "Bailable": "Yes",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "507",
+   "Offense": "Criminal intimidation by Anonymous communication or having taken precaution to conceal whence the threat comes",
+   "Punishment": "As in Section 506 + 2 Years",
+   "Cognizable": "No",
+   "Bailable": "Yes",
+   "Court": "Magistrate First Class",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "508",
+   "Offense": "Act caused by inducing a person to believe that he will be rendered an object of Divine displeasure",
+   "Punishment": "1 Year or Fine or Both",
+   "Cognizable": "No",
+   "Bailable": "Yes",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "509",
+   "Offense": "Uttering any word or making any gesture intended to insult the modesty of a woman, etc.",
+   "Punishment": "Simple imprisonment for 3 years + Fine",
+   "Cognizable": "Yes",
+   "Bailable": "Yes",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Imprisonment (= 3 years)"
+ },
+ {
+   "IP Section": "510",
+   "Offense": "Appearing in a public Place, etc., in a State of intoxication, and causing annoyance to any person",
+   "Punishment": "Simple Imprisonment for 24 hours or Fine or Both",
+   "Cognizable": "No",
+   "Bailable": "Yes",
+   "Court": "Any Magistrate",
+   "Punishment Category": "Other Punishments"
+ },
+ {
+   "IP Section": "511",
+   "Offense": "Attempting to commit offences punishable with imprisonment for life, or imprisonment, and in such attempt doing any act towards the commission of the offence",
+   "Punishment": "Imprisonment for Life or Imprisonment not exceeding, half of the longest term provided for the Offence, or Fine, or Both",
+   "Cognizable": "Same As for Offence attempted",
+   "Bailable": "Same As for Offence attempted",
+   "Court": "Same As for Offence attempted",
+   "Punishment Category": "Life Imprisonment"
+ },
+ {
+   "IP Section": "Unknown",
+   "Offense": "Unknown",
+   "Punishment": "Unknown",
+   "Cognizable": "Unknown",
+   "Bailable": "Unknown",
+   "Court": "Unknown",
+   "Punishment Category": "Other Punishments"
+ }
+]
