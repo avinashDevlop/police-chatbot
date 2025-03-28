@@ -72,9 +72,76 @@ function PoliceChatbot() {
     ).join('\n');
   };
 
+  // Predefined responses for common questions
+  const getPredefinedResponse = (prompt) => {
+    const complaintKeywords = [
+      'register complaint',
+      'file complaint',
+      'lodge complaint',
+      'how to complain',
+      'report crime',
+      'file fir',
+      'register fir',
+      'how to register a complaint',
+      'complaint process',
+      'police complaint procedure',
+      'What is the process for filing a police complaint?',
+      'File a Complaint',
+      'How to check my complaint status?'
+    ];
+
+    const isComplaintQuery = complaintKeywords.some(keyword => 
+      prompt.toLowerCase().includes(keyword)
+    );
+
+    if (isComplaintQuery) {
+      return `
+        Police Complaint Registration Process (India):
+
+        1. Visit the Police Station:
+        - Go to the police station nearest to where the incident occurred
+        - Station timings are typically 24/7 for emergencies
+
+        2. Required Documents:
+        - Government-issued photo ID (Aadhaar, Voter ID, Passport, etc.)
+        - Any evidence related to your complaint (photos, documents, etc.)
+        - Contact details of witnesses (if available)
+
+        3. FIR Registration:
+        - Provide complete details to the duty officer
+        - The officer will record your complaint in the FIR register
+        - You have the right to get a free copy of the FIR
+
+        4. Online Alternative:
+        - Many states offer online complaint registration
+        - Visit your state police website (eg: https://citizen.mahapolice.gov.in for Maharashtra)
+
+        5. Important Notes:
+        - FIR must be registered immediately for cognizable offenses
+        - You can approach senior officers if your complaint isn't registered
+        - For women-related complaints, approach the Women's Cell
+
+        Emergency Contact: Always call 100 for immediate police response
+        Non-Emergency Helpline: You can also dial 112 for assistance
+      `.replace(/\n\s+/g, '\n').trim();
+    }
+    return null;
+  };
+
   // Fetch response from AI
   const fetchPoliceResponse = async (prompt) => {
     try {
+      // Check for predefined responses first
+      const predefinedResponse = getPredefinedResponse(prompt);
+      if (predefinedResponse) {
+        const updatedHistory = [...conversationHistory, 
+          { role: 'user', content: prompt },
+          { role: 'assistant', content: predefinedResponse }
+        ];
+        setConversationHistory(updatedHistory);
+        return predefinedResponse;
+      }
+
       // Check if the query is about an IPC section
       const ipcMatch = prompt.match(/IPC (section )?(\d+)/i) || prompt.match(/(section )?(\d+) (of )?IPC/i);
       
@@ -294,4 +361,4 @@ function PoliceChatbot() {
   );
 }
 
-export default PoliceChatbot;
+export default PoliceChatbot; 
